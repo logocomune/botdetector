@@ -1290,9 +1290,11 @@ var rules = []string{
 	// Manual rules
 	"^!susie",
 	"^binget/",
+	"^blackfire php player/",
 	"^cocoal.icio.us/",
 	"^cynthia ",
 	"^java1.",
+	"^Mozilla/5.0 (compatible; https://disqus.com)$",
 	"^nitro pdf download$",
 	"^peach/",
 	"^web downloader/",

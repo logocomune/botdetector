@@ -134,6 +134,10 @@ var yahoo = []string{
 	"Y!J-BRW/1.0 (https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716)",
 }
 
+var crawler = []string{
+	"Blackfire PHP Player/1.0",
+}
+
 func TestUABotDetector_IsBotStrict(t *testing.T) {
 	rules := []string{
 		"^b0t$",
@@ -174,6 +178,7 @@ func TestUA(t *testing.T) {
 	useragents = append(useragents, baidu...)
 	useragents = append(useragents, yandex...)
 	useragents = append(useragents, yahoo...)
+	useragents = append(useragents, crawler...)
 
 	for _, c := range useragents {
 		isC := u.IsBot(c)

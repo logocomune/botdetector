@@ -8,7 +8,7 @@ const (
 	strict = iota
 	startWidth
 	contains
-	)
+)
 
 type expressionInfo struct {
 	expressionType int

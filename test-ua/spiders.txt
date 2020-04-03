@@ -23,7 +23,6 @@
 7Siters/1.08 (+https://7ooo.ru/siters/)
 7Siters/1.09 (+https://7ooo.ru/siters/)
 : Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
-<a href='http://www.unchaos.com/'> UnChaos </a> From Chaos To Order Hybrid Web Search Engine.(vadim_gonchar@unchaos.com)
 A6-Indexer
 A6-Indexer/1.0 (http://www.a6corp.com/a6-web-scraping-policy/)
 ABACHOBot
@@ -255,6 +254,7 @@ CatchBot/2.0; +http://www.catchbot.com
 CatchBot/3.0; +http://www.catchbot.com
 CatchBot/5.0; +http://www.catchbot.com
 CheckHost (http://check-host.net/)
+CheckHost (https://check-host.net/)
 CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
 Chimu/1.0 Whois Robots (http://whois.li.cm) cd cat
 Chimu/1.0 robot (http://www.80.cm/bot.htm)
@@ -1246,6 +1246,7 @@ Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19 moatbot
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/41.0.2272.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Google-Publisher-Plugin) Chrome/27.0.1453 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.1.1; HTC6435LVW Build/JRO03C; Neustar WPM) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Mobile Safari/537.22
 Mozilla/5.0 (Linux; Android 4.1.2; Galaxy Nexus Build/JZO54K; GTmetrix http://gtmetrix.com/) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.22
@@ -1483,6 +1484,7 @@ Mozilla/5.0 (Linux; Android 7.0; VKY-AL00 Build/HUAWEIVKY-AL00; wv) AppleWebKit/
 Mozilla/5.0 (Linux; Android 7.0; VKY-AL00 Build/HUAWEIVKY-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 MicroMessenger/6.6.3.1260(0x26060339) NetType/4G Language/zh_CN
 Mozilla/5.0 (Linux; Android 7.0; VTR-AL00 Build/HUAWEIVTR-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044028 Mobile Safari/537.36 MicroMessenger/6.6.6.1300(0x26060636) NetType/WIFI Language/zh_CN
 Mozilla/5.0 (Linux; Android 7.0; WAS-AL00 Build/HUAWEIWAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043622 Safari/537.36 MicroMessenger/6.5.22.1160 NetType/4G Language/zh_CN
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; AspiegelBot)
 Mozilla/5.0 (Linux; Android 7.1.1; MI 6 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36 MicroMessenger/6.5.22.1160 NetType/WIFI Language/zh_CN
 Mozilla/5.0 (Linux; Android 7.1.1; M_bot_tab_1150 Build/N9F27F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Safari/537.36
 Mozilla/5.0 (Linux; Android 7.1.1; Nexus 6P Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile MQQBrowser/6.9 TBS/036903 Safari/537.36 MicroMessenger/6.3.31.921 NetType/WIFI Language/zh_CN
@@ -2201,6 +2203,7 @@ Mozilla/5.0 (compatible; LXRbot/1.0; http://lxrseo.com/, support@lxrseo.com)
 Mozilla/5.0 (compatible; LXRbot/1.0;http://www.lxrmarketplace.com/,support@lxrmarketplace.com)
 Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
 Mozilla/5.0 (compatible; Licorne Image Snapshot 1.0; +http://www.jednorozec.cz)
+Mozilla/5.0 (compatible; Linespider/1.1; +https://lin.ee/4dwXkTH)
 Mozilla/5.0 (compatible; LinkChecker/8.6; +http://wummel.github.io/linkchecker/)
 Mozilla/5.0 (compatible; LinkChecker/9.3; +http://wummel.github.io/linkchecker/)
 Mozilla/5.0 (compatible; LinkMarketbot/1.2; +http://www.linkmarket.com/)
@@ -2373,6 +2376,7 @@ Mozilla/5.0 (compatible; OpenindexShallowSpider/Nutch-1.5-dev; +http://www.openi
 Mozilla/5.0 (compatible; OpenindexShallowSpider/Nutch-1.5-dev; +http://www.openindex.io/en/webmasters/spider.html; systemsATopenindexDOTio)
 Mozilla/5.0 (compatible; OpenindexSpider/Nutch-1.5-dev; +http://www.openindex.io/en/webmasters/spider.html)
 Mozilla/5.0 (compatible; OpenindexSpider; +http://www.openindex.io/en/webmasters/spider.html)
+Mozilla/5.0 (compatible; OpenindexSpider; +https://www.openindex.io/saas/about-our-spider/)
 Mozilla/5.0 (compatible; OptimizationCrawler/0.2; +http://www.domainoptima.com/bot.html)
 Mozilla/5.0 (compatible; OptimizationCrawler/0.2; +http://www.domainoptima.com/robot)
 Mozilla/5.0 (compatible; Optimizer)
@@ -2847,6 +2851,7 @@ Mozilla/5.0 (compatible; houzzbot; +http://www.houzz.com/)
 Mozilla/5.0 (compatible; htrix/1.14.4 ++https://webarchiv.onb.ac.at/robot.html)
 Mozilla/5.0 (compatible; http://alyze.info)
 Mozilla/5.0 (compatible; http://www.UptimeAuditor.com/bot/ )
+Mozilla/5.0 (compatible; https://disqus.com)
 Mozilla/5.0 (compatible; humancurl.async; 0.1.1; +http://h.wrttn.me/humancurl)
 Mozilla/5.0 (compatible; hypestat/1.0; +http://www.hypestat.com/bot)
 Mozilla/5.0 (compatible; iThemes Sync/1.0; +http://ithemes.com/sync)
@@ -3017,6 +3022,7 @@ Mozilla/5.0 (compatible; yoozBot-2.2; http://yooz.ir; info@yooz.ir)
 Mozilla/5.0 (compatible; zitebot support [at] zite [dot] com +http://zite.com)
 Mozilla/5.0 (compatible; zitebot support at zite dot com +http://zite.com)
 Mozilla/5.0 (compatible;+ParchBot/1.0;++http://www.parchmenthill.com/search.htm)
+Mozilla/5.0 (compatible;AspiegelBot)
 Mozilla/5.0 (compatible;Cloudflare-Healthchecks/1.0;+https://www.cloudflare.com/; healthcheck-id: 755842180c7ae904)
 Mozilla/5.0 (compatible;Linespider/1.1;+
 Mozilla/5.0 (compatible;WI Job Roboter Spider Version 3;+http://www.webintegration.at)
@@ -3236,6 +3242,7 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTM
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 MicroMessenger/6.5.8 NetType/WIFI Language/en
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 MicroMessenger/6.6.0 NetType/WIFI Language/zh_CN
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; AdsBot-Google-Mobile; +http://www.google.com/mobile/adsbot.html)
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; woobot/2.0; +https://www.woorank.com/bot)
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 SeoSiteCheckup (https://seositecheckup.co
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13E234 MicroMessenger/6.3.15 NetType/WIFI Language/en
@@ -3294,12 +3301,14 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML like Gecko; Google Web Preview Analytics) 
 Mozilla/5.0 AppleWebKit/537.36 (KHTML like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/41.0.2272.118 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/41.0.2272.118 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/75.0.3761.0 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/76.0.3809.103 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/78.0.3904.74 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/79.0.3945.120 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/80.0.3987.92 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PretzelBot/0.3; +http://www.example.com/bot.html) Chrome/41.0.2272.96 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Safari/537.36
 Mozilla/5.0 AppleWebKit/537.4 (KHTML like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.4
 Mozilla/5.0 AppleWebkit/537.36 (KHTML, like Gecko) Trident/7.0; rv:11.0, Chrome/42.0.2311.135, Edge/12.10136, http://www.shrinktheweb.com/, Webshot/0.9
@@ -3622,6 +3631,7 @@ ROR Sitemap Generator (http://www.rorweb.com)
 RSSMicro.com RSS/Atom Feed Robot
 RSSOwl/2.2.1.201312301314 (Windows; U; en)
 RSSingBot (http://www.rssing.com)
+RankBotEU/1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
 RankFlex.com Webspider
 RankurBot/3.3 (+http://rankur.com)
 RankurBot/Rankur2.1 (http://rankur.com; info at rankur dot com)
@@ -3765,6 +3775,7 @@ Screaming Frog SEO Spider/10.2
 Screaming Frog SEO Spider/10.4
 Screaming Frog SEO Spider/11.1
 Screaming Frog SEO Spider/11.3
+Screaming Frog SEO Spider/12.6
 Screaming Frog SEO Spider/2.00
 Screaming Frog SEO Spider/2.11
 Screaming Frog SEO Spider/2.20
@@ -4427,6 +4438,7 @@ archive.orgbot
 argenfybot
 aria2/1.18.8
 arquivo-web-crawler (compatible; heritrix/3.3.0-SNAPSHOT-2019-08-26T10:34:48Z +http://arquivo.pt)
+arquivo-web-crawler (compatible; heritrix/3.4.0-20190418 +http://arquivo.pt)
 asafaweb.com
 asynchttp
 attohttpc/0.9.0
