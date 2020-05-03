@@ -136,6 +136,12 @@ var yahoo = []string{
 
 var crawler = []string{
 	"Blackfire PHP Player/1.0",
+	"Apache-HttpAsyncClient/4.0.2 (java 1.5)",
+	"Go-http-client/1.1",
+	"GuzzleHttp/6.3.3 curl/7.61.1 PHP/7.2.30",
+	"python-requests/2.19.1",
+	"Apache-HttpAsyncClient/5.0 (Java/1.8.0_252)",
+	`Mozilla/5.0 (compatible; Domains Project/1.0.6; +http://domainsproject.org)`,
 }
 
 func TestUABotDetector_IsBotStrict(t *testing.T) {

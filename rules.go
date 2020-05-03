@@ -288,6 +288,7 @@ var rules = []string{
 	"dolphin http client",
 	"domainappender",
 	"domainlabz",
+	"domainsproject.org)$",
 	"donuts content explorer",
 	"dotmailer content retrieval",
 	"dotsemantic",

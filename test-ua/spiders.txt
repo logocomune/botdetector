@@ -88,6 +88,7 @@ AntBot/1.0 (http://www.ant.com)
 AntBot/Ant-Nutch-1.1 (Ant Nutch Crawler; http://www.ant.com; crawler@ant.com)
 Apache Droid
 Apache OpenOffice/4.1.2
+Apache-HttpAsyncClient/4.0.2 (java 1.5)
 Apache-HttpAsyncClient/4.1.3 (Java/1.8.0_121)
 Apache-HttpClient/4.2.3 (java 1.5)
 Apache-HttpClient/4.2.5 (java 1.5)
@@ -628,6 +629,7 @@ GridBot/1.0 crawler@sysomos.com
 GurujiBot/1.0 (+http://www.guruji.com/WebmasterFAQ.html)
 GurujiBot/1.0 (+http://www.guruji.com/en/WebmasterFAQ.html)
 GuzzleHttp/6.2.1 PHP/7.0.15-0ubuntu0.16.04.4
+GuzzleHttp/6.3.3 curl/7.61.1 PHP/7.2.30
 HAAARTLAND http client
 HAARTLAND http client
 HEADMasterSEO
@@ -807,6 +809,7 @@ Java/1.7.0_65
 Java/1.7.0_80
 Java/1.8.0_05
 Java/1.8.0_20
+Java/1.8.0_202
 Java/1.8.0_31
 Java/1.8.0_40
 Java/1.8.0_45
@@ -2055,6 +2058,7 @@ Mozilla/5.0 (compatible; DomainSONOCrawler/0.1; +http://domainsono.com)
 Mozilla/5.0 (compatible; DomainSigmaCrawler/0.1; +http://domainsigma.com/robot)
 Mozilla/5.0 (compatible; DomainTunoCrawler/0.1; +http://www.domaintuno.com/robot)
 Mozilla/5.0 (compatible; DomainTunoCrawler/0.1; +https://www.domaintuno.com/robot)
+Mozilla/5.0 (compatible; Domains Project/1.0.6; +http://domainsproject.org)
 Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotnetdotcom.org/, crawler@dotnetdotcom.org)
 Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot help@moz.com)
 Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
@@ -4967,6 +4971,7 @@ python-requests/1.1.0 CPython/2.7.6 Linux/3.13.0-58-generic
 python-requests/1.2.0 CPython/2.7.3 Linux/3.2.0-29-virtual
 python-requests/2.1.0 CPython/2.7.3 Linux/3.2.0-4-amd64
 python-requests/2.10.0
+python-requests/2.19.1
 python-requests/2.2.1 CPython/2.7.6 Linux/3.13.0-48-generic
 python-requests/2.2.1 CPython/2.7.6 Linux/3.13.0-83-generic
 python-requests/2.3.0 CPython/2.7.6 Linux/3.13.0-57-generic

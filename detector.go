@@ -6,14 +6,15 @@ import (
 
 const (
 	strict = iota
-	startWidth
+	startWith
+	endWith
 	contains
 )
 
 type expressionInfo struct {
 	expressionType int
 	source         string
-	detector       interface{}
+	detector       string
 }
 
 type BotDetector struct {
@@ -53,8 +54,18 @@ func (b *BotDetector) addExpression(original string) {
 	if strings.HasPrefix(s, "^") {
 		b.expression[original] = expressionInfo{
 			source:         original,
-			expressionType: startWidth,
+			expressionType: startWith,
 			detector:       s[1:],
+		}
+
+		return
+	}
+
+	if strings.HasSuffix(s, "$") {
+		b.expression[original] = expressionInfo{
+			source:         original,
+			expressionType: endWith,
+			detector:       s[:len(s)-1],
 		}
 
 		return
@@ -76,16 +87,18 @@ func (b *BotDetector) IsBot(ua string) bool {
 		switch exp.expressionType {
 		case strict:
 			if uaNormalized == exp.detector {
-				//fmt.Printf("%+v\n",exp)
 				return true
 			}
-		case startWidth:
-			if strings.HasPrefix(uaNormalized, exp.detector.(string)) {
-				//fmt.Printf("%+v\n",exp)
+		case startWith:
+			if strings.HasPrefix(uaNormalized, exp.detector) {
+				return true
+			}
+		case endWith:
+			if strings.HasSuffix(uaNormalized, exp.detector) {
 				return true
 			}
 		case contains:
-			if strings.Contains(uaNormalized, exp.detector.(string)) {
+			if strings.Contains(uaNormalized, exp.detector) {
 				//fmt.Printf("%+v\n",exp)
 				return true
 			}
