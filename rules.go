@@ -2,6 +2,8 @@ package botdetector
 
 var rules = []string{
 	" package http",
+	" siege/",
+	" snapchat/",
 	" ylt ",
 	"//disqus.com",
 	"13tabs",
@@ -39,6 +41,7 @@ var rules = []string{
 	"^ning/",
 	"^nitro pdf download$",
 	"^peach/",
+	"^php-requests/",
 	"^php/",
 	"^rma/",
 	"^ruby",
@@ -288,7 +291,7 @@ var rules = []string{
 	"dolphin http client",
 	"domainappender",
 	"domainlabz",
-	"domainsproject.org)$",
+	"domains project",
 	"donuts content explorer",
 	"dotmailer content retrieval",
 	"dotsemantic",
