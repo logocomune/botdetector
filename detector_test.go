@@ -210,6 +210,8 @@ func TestBrowsers(t *testing.T) {
 
 func TestBrowsersUA(t *testing.T) {
 	u := New()
+	u.debugMode=true
+
 	file, err := os.Open(browserUaList)
 
 	if err != nil {
@@ -225,7 +227,6 @@ func TestBrowsersUA(t *testing.T) {
 		if isBot {
 			t.Log(userAgent)
 		}
-
 		assert.False(t, isBot)
 	}
 
@@ -249,7 +250,7 @@ func TestSpidersUA(t *testing.T) {
 
 		isBot := u.IsBot(userAgent)
 		if !isBot {
-			t.Log(userAgent)
+			t.Logf("'%s'\n",userAgent)
 		}
 
 		assert.True(t, isBot)

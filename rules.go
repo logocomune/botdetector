@@ -1,7 +1,10 @@
+// Generated at: 2021-02-22T18:52:09+01:00
+// Rules: 1362
+
 package botdetector
 
 var rules = []string{
-	" (Java) outbrain$",
+	" (java) outbrain$",
 	" package http",
 	" siege/",
 	" ylt ",
@@ -17,6 +20,7 @@ var rules = []string{
 	"7siters",
 	"80legs",
 	"^!susie",
+	"^12345",
 	"^ace explorer$",
 	"^amazon simple notification service agent$",
 	"^apis-google (",
@@ -24,6 +28,7 @@ var rules = []string{
 	"^avsdevicesdk",
 	"^b0t$",
 	"^binget/",
+	"^bkctwitterunshortener",
 	"^blackfire php player/",
 	"^bluefish ",
 	"^calypso v/",
@@ -42,11 +47,11 @@ var rules = []string{
 	"^grabber",
 	"^httpclient/",
 	"^hubspot-link-resolver$",
-	"^java/",
-	"^java1.",
+	"^java",
 	"^jeode/",
 	"^jetty/",
 	"^linkanalyser/",
+	"^lynx/",
 	"^macoutlook",
 	"^mail/",
 	"^mattermost",
@@ -818,7 +823,6 @@ var rules = []string{
 	"nymesis",
 	"nyu",
 	"ocelli/",
-	"octopus",
 	"oegp",
 	"offline explorer",
 	"offline navigator",
@@ -910,6 +914,7 @@ var rules = []string{
 	"prittorrent",
 	"prlog",
 	"probethenet",
+	"project-resonance",
 	"project25499",
 	"prospectb2b",
 	"protopage",
@@ -1120,6 +1125,7 @@ var rules = []string{
 	"tarantula/",
 	"taringa ugc",
 	"tarmotgezgin",
+	"tchelebi",
 	"techiaith.cymru",
 	"teleport",
 	"telesoft",

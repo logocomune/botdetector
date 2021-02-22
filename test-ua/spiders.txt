@@ -12,6 +12,8 @@ info@domaincrawler.com; http://www.domaincrawler.com/whatmyip.co
 http://www.google.com/bot.html
 Mozilla/4.0 (compatible; http://search.thunderstone.com/texis/websearch/about.html)
 /n software IPWorks HTTP/S Component - www.nsoftware.com
+12345 MRA 5.4 (build 02647);
+123456111 SEB/3.0.1 (x64)
 13TABS/13TABS-1.14 (https://www.13tabs.com/aboutUs.jsp)
 192.comAgent
 20090717_aa_page (larbin2.6.3@unspecified.mail)
@@ -52,6 +54,7 @@ Abrave v6.0 (http://robot.abrave.com)
 Accoona-AI-Agent/1.1.1 (crawler at accoona dot com)
 Accoona-AI-Agent/1.1.2
 Accoona-AI-Agent/1.1.2 (aicrawler at accoonabot dot com)
+Ace Explorer
 Acoon Robot v1.52 (http://www.acoon.de)
 Acoon v4.1.0 (www.acoon.de)
 Acoon v4.10.1 (www.acoon.de)
@@ -88,6 +91,7 @@ AndroidDownloadManager/4.4.2 (Linux; U; Android 4.4.2; SM-T210 Build/KOT49H)
 AndroidDownloadManager/4.4.2 (Linux; U; Android 4.4.2; SM-T310 Build/KOT49H)
 AndroidDownloadManager/6.0.1 (Linux; U; Android 6.0.1; SM-G900F Build/MMB29M)
 Anemone/0.7.2
+AngleSharp/0.14.0.0
 AngleSharp/0.9.9
 Anonymous Coward/1.0 (A StormCrawler-based crawler; http://someorganization.com/; someone@someorganization.com)
 Anonymous Coward/1.0 (built with StormCrawler Elasticsearch Archetype 2.0; http://someorganization.com/; someone@someorganization.com)
@@ -131,6 +135,7 @@ Apache-HttpClient/4.5 (Java/1.8.0_111)
 Apache-HttpClient/4.5 (Java/1.8.0_121)
 Apache-HttpClient/4.5 (Java/1.8.0_171)
 Apache-HttpClient/4.5 (Java/1.8.0_181)
+Apache-HttpClient/4.5 (Java/1.8.0_262)
 Apache-HttpClient/4.5 (Java/1.8.0_51)
 Apache-HttpClient/4.5 (Java/1.8.0_72)
 Apache-HttpClient/4.5 (Java/1.8.0_74)
@@ -142,8 +147,10 @@ Apache-HttpClient/4.5.1+(Java/1.8.0_74)
 Apache-HttpClient/4.5.10 (Java/1.8.0_171)
 Apache-HttpClient/4.5.10 (Java/1.8.0_212)
 Apache-HttpClient/4.5.10 (Java/1.8.0_265)
+Apache-HttpClient/4.5.10 (Java/1.8.0_275)
 Apache-HttpClient/4.5.10 (Java/11.0.4)
 Apache-HttpClient/4.5.10 (Java/11.0.8)
+Apache-HttpClient/4.5.10 (Java/11.0.9.1)
 Apache-HttpClient/4.5.11 (Java/1.8.0_144)
 Apache-HttpClient/4.5.11 (Java/1.8.0_242)
 Apache-HttpClient/4.5.12 (Java/1.8.0_144)
@@ -152,8 +159,12 @@ Apache-HttpClient/4.5.12 (Java/1.8.0_241)
 Apache-HttpClient/4.5.12 (Java/1.8.0_251)
 Apache-HttpClient/4.5.12 (Java/1.8.0_261)
 Apache-HttpClient/4.5.12 (Java/1.8.0_265)
+Apache-HttpClient/4.5.12 (Java/1.8.0_275)
 Apache-HttpClient/4.5.12 (Java/11.0.7)
 Apache-HttpClient/4.5.12 (Java/11.0.8)
+Apache-HttpClient/4.5.12 (Java/15-ea)
+Apache-HttpClient/4.5.12 (Java/15.0.1)
+Apache-HttpClient/4.5.13 (Java/15.0.1)
 Apache-HttpClient/4.5.2 (Java/1.7.0_151)
 Apache-HttpClient/4.5.2 (Java/1.7.0_231)
 Apache-HttpClient/4.5.2 (Java/1.7.0_45)
@@ -170,6 +181,7 @@ Apache-HttpClient/4.5.2 (Java/1.8.0_201)
 Apache-HttpClient/4.5.2 (Java/1.8.0_222)
 Apache-HttpClient/4.5.2 (Java/1.8.0_242)
 Apache-HttpClient/4.5.2 (Java/1.8.0_252)
+Apache-HttpClient/4.5.2 (Java/1.8.0_265)
 Apache-HttpClient/4.5.2 (Java/1.8.0_60)
 Apache-HttpClient/4.5.2 (Java/1.8.0_65)
 Apache-HttpClient/4.5.2 (Java/1.8.0_72)
@@ -180,11 +192,13 @@ Apache-HttpClient/4.5.3 (Java/1.8.0_112)
 Apache-HttpClient/4.5.3 (Java/1.8.0_121)
 Apache-HttpClient/4.5.3 (Java/1.8.0_144-cedar14)
 Apache-HttpClient/4.5.3 (Java/1.8.0_151)
+Apache-HttpClient/4.5.3 (Java/1.8.0_152)
 Apache-HttpClient/4.5.3 (Java/1.8.0_161)
 Apache-HttpClient/4.5.3 (Java/1.8.0_171)
 Apache-HttpClient/4.5.3 (Java/1.8.0_172)
 Apache-HttpClient/4.5.3 (Java/1.8.0_212)
 Apache-HttpClient/4.5.3 (Java/1.8.0_252)
+Apache-HttpClient/4.5.3 (Java/1.8.0_272)
 Apache-HttpClient/4.5.3 (Java/9.0.4)
 Apache-HttpClient/4.5.3-SNAPSHOT (Java/1.8.0_144)
 Apache-HttpClient/4.5.3-SNAPSHOT (Java/1.8.0_151)
@@ -205,10 +219,13 @@ Apache-HttpClient/4.5.5 (Java/11.0.7)
 Apache-HttpClient/4.5.5 (Java/9.0.1)
 Apache-HttpClient/4.5.6 (Java/1.8.0_112)
 Apache-HttpClient/4.5.6 (Java/1.8.0_121)
+Apache-HttpClient/4.5.6 (Java/1.8.0_191)
 Apache-HttpClient/4.5.6 (Java/1.8.0_231)
 Apache-HttpClient/4.5.6 (Java/1.8.0_232)
+Apache-HttpClient/4.5.6 (Java/1.8.0_242)
 Apache-HttpClient/4.5.6 (Java/11.0.2)
 Apache-HttpClient/4.5.7 (Java/1.8.0_102)
+Apache-HttpClient/4.5.7 (Java/1.8.0_201-heroku)
 Apache-HttpClient/4.5.7 (Java/1.8.0_211)
 Apache-HttpClient/4.5.7 (Java/1.8.0_232)
 Apache-HttpClient/4.5.7 (Java/11.0.2)
@@ -223,6 +240,8 @@ Apache-HttpClient/4.5.9 (Java/1.8.0_252)
 Apache-HttpClient/4.5.9 (Java/1.8.0_262)
 Apache-HttpClient/4.5.9 (Java/1.8.0_265)
 Apache-HttpClient/4.5.9 (Java/1.8.0_272)
+Apache-HttpClient/4.5.9 (Java/1.8.0_275)
+Apache-HttpClient/4.5.9 (Java/1.8.0_282)
 Apache-HttpClient/4.5.9 (Java/11.0.5)
 Apache-HttpClient/4.5.x (Java/1.8.0_242)
 Apache-HttpClient/5.0.1 (Java/11.0.3)
@@ -484,6 +503,7 @@ AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-ba-k)
 AppEngine-Google; (+http://code.google.com/appengine; appid: proxy-in-rs)
 AppEngine-Google; (+http://code.google.com/appengine; appid: p~gweb-web-health-dashboard-test)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~buzzstream-tools-hrd)
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~cacheddocs)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~closure-compiler-hrd)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~domxssscanner-hrd)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~feedly-social)
@@ -493,12 +513,14 @@ AppEngine-Google; (+http://code.google.com/appengine; appid: s~gweb-web-health-d
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~gyfavicon)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~http-tracker)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~ircrestapi)
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~pipe-295708)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~repcore-demo)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~repcore-prod)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~snapchat-proxy)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~surf702-hrd)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~uponline-194413)
 AppEngine-Google; (+http://code.google.com/appengine; appid: s~wesleycrush)
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~woaitie)
 AppEngine-Google; (+http://code.google.com/appengine; appid: tunisproxy)
 AppEngine-Google; (+http://code.google.com/appengine; appid: unblock4myspace)
 AppEngine-Google; (+http://code.google.com/appengine; appid: webetrex)
@@ -524,6 +546,9 @@ ArchiveTeam ArchiveBot/20191207.38f77ff (wpull 2.0.3) and not Mozilla/5.0 (Windo
 ArchiveTeam ArchiveBot/20200310.842415b (wpull 2.0.3) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
 ArchiveTeam ArchiveBot/20200413.2e71c9a (wpull 2.0.3) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
 ArchiveTeam ArchiveBot/20200719.3585ed9 (wpull 2.0.3) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+ArchiveTeam ArchiveBot/20201108.751450d (wpull 2.0.3) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+ArchiveTeam ArchiveBot/20201114.c4a2a56 (wpull 2.0.3) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+ArchiveTeam ArchiveBot/20201201.72d2d09 (wpull 2.0.3) and not Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
 ArielisBot/1.1 (+http://arielis.com/
 Arquivo-web-crawler  (compatible; heritrix/1.14.3 +http://arquivo.pt/faq-crawling)
 Arquivo-web-crawler  (compatible; heritrix/1.14.4  http://arquivo.pt/faq-crawling)
@@ -539,9 +564,17 @@ Automattic Analytics Crawler/0.2; http://wordpress.com/crawler
 Automattic Analytics Crawler/0.2; http://wordpress.com/crawler/
 Autonomy
 AvsDeviceSdk/1.11.0
+AvsDeviceSdk/1.12.0
+AvsDeviceSdk/1.12.1
+AvsDeviceSdk/1.14.0
 AvsDeviceSdk/1.17.0
+AvsDeviceSdk/1.18.0
+AvsDeviceSdk/1.19.1
+AvsDeviceSdk/1.20.1
+AvsDeviceSdk/1.21.0
 BCKLINKS 1.0
 BIGLOTRON (Beta 2;GNU/Linux)
+BKCTwitterUnshortener/0.1 (Contact: systems@cyber.harvard.edu)
 BOT/0.1 (BOT for JCE)
 BPImageWalker/2.0 (www.bdbrandprotect.com)
 BUbiNG (+http://law.di.unimi.it/BUbiNG.html#wc)
@@ -638,6 +671,7 @@ CRAZYWEBCRAWLER 0.9.4 http://www.crazywebcrawler.com
 CRAZYWEBCRAWLER 0.9.4, http://www.crazywebcrawler.com
 CRAZYWEBCRAWLER 0.9.6 http://www.crazywebcrawler.com
 CRAZYWEBCRAWLER 0.9.7 http://www.crazywebcrawler.com
+CRAZYWEBCRAWLER 0.9.7, http://www.crazywebcrawler.com
 CRAZYWEBCRAWLER 0.9.8 http://www.crazywebcrawler.com
 CRAZYWEBCRAWLER 0.9.9 http://www.crazywebcrawler.com
 CRIM Crawler/Nutch-2.3 (Crawler du Centre de Recherche Informatique de Montr\xc3\xa9al (CRIM))
@@ -646,6 +680,7 @@ CSE HTML Validator Lite Online (http://online.htmlvalidator.com/php/onlinevallit
 CSS Certificate Spider (http://www.css-security.com/certificatespider/)
 CSSCheck/1.2.2
 CSmartCrawler (email: abuse[at]adsadv[dot]com)
+CURL (Link validity checker)
 Calypso v/0.01
 CamontSpider/1.0 +http://epweb2.ph.bham.ac.uk/user/slater/camont/info.html
 Canary%20Mail/397 CFNetwork/893.13.1 Darwin/17.4.0 (x86_64)
@@ -759,6 +794,7 @@ CovarioIDS/1.1 (http://www.covario.com/ids; support at covario dot com)
 CowBot/0.4
 CowBot/1.0
 Craw/1.0
+Crawler Test/1.0 (built with StormCrawler Elasticsearch Archetype 1.17; http://someorganization.com/; someone@someorganization.com)
 Crawler powered by contentDetection (www.mindup.de)
 Crawler/0.0.1
 CronDroid v0.80a http://www.crondroid.com
@@ -856,6 +892,7 @@ Doximity-Diffbot
 Dragonfly File Reader
 Drupal (+http://drupal.org/)
 DuckDuckBot/1.0; (+http://duckduckgo.com/duckduckbot.html)
+DuckDuckBot/1.0; (+https://duckduckgo.com/duckduckbot.html)
 DuckDuckBot/1.1; (+http://duckduckgo.com/duckduckbot.html)
 DuckDuckBot/2.0; (+http://duckduckgo.com/duckduckbot.html)
 DwnldBot (+http://dwnld.me)
@@ -926,9 +963,11 @@ FTRF: Friendly robot/1.3
 FacebookExternalHit/1.0
 Facebot/1.0
 Factbot 1.09 (see http://www.factbites.com/webmasters.php)
+Faraday v0.11.0
 Faraday v0.12.2
 Faraday v0.13.1
 Faraday v0.15.2
+Faraday v0.15.4
 Faraday v0.17.3
 Faraday v0.9.1
 Faraday v0.9.2
@@ -943,6 +982,7 @@ FeedCatBot/3.0 (+http://www.feedcat.net/)
 FeedChecker-Zocle/1.0 (+https://zocle.com/zoclechecker)
 FeedDemon/4.5 (http://www.feeddemon.com/; Microsoft Windows)
 FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)
+FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)+Gecko/20100101 Firefox/74.0
 FeedValidator/1.3
 FeedZcollector v1.x (Platinum) http://www.feeds4all.com/feedzcollector
 Feedable/0.1 (compatible; MSIE 6.0; Windows NT 5.1)
@@ -992,6 +1032,7 @@ FreeWebMonitoring SiteChecker/0.2 (+http://www.freewebmonitoring.com/bot.html)
 FreshRSS/1.13.0 (Linux; https://freshrss.org)
 Friendica
 Friendica 'Ginger' 3.3.1-1174; https://xfck.net
+Friendica 'Red Hot Poker' 2021.01-1384; https://venera.social
 From @80.cm (loadingbot; @80.cm; +http://www.80.cm/)
 Frontera-based example bot (+https://github.com/scrapinghub/frontera)
 Fuzz Faster U Fool v1.0-rc1
@@ -1047,6 +1088,7 @@ GloomarBot/1.1 (https://www.gloomar.com/bot)
 Go 1.1 package http
 Go http package
 Go-http-client/1.1
+Go-http-client/1.1,gzip(gfe)
 Go-http-client/2.0
 GoScraper
 GoSpotCheck 1.0.6 (iPhone; iPhone OS 5.1.1; en_US)
@@ -1113,6 +1155,7 @@ Guzzle/3.1.2 curl/7.35.0 PHP/5.6.36
 Guzzle/5.3.1 curl/7.26.0 PHP/5.6.18-1~dotdeb+7.1
 Guzzle/5.3.1 curl/7.56.1 PHP/7.1.11
 Guzzle/5.3.1 curl/7.58.0 PHP/7.1.33-14+ubuntu18.04.1+deb.sury.org+1
+Guzzle/5.3.1 curl/7.68.0 PHP/7.3.25
 GuzzleHttp/6.1.0 curl/7.35.0 PHP/5.5.9-1ubuntu4.14
 GuzzleHttp/6.1.0 curl/7.38.0 PHP/5.6.33
 GuzzleHttp/6.2.1 PHP/7.0.15-0ubuntu0.16.04.4
@@ -1146,9 +1189,11 @@ GuzzleHttp/6.3.3 curl/7.29.0 PHP/7.2.31
 GuzzleHttp/6.3.3 curl/7.35.0 PHP/7.0.2-4+deb.sury.org~trusty+1
 GuzzleHttp/6.3.3 curl/7.38.0 PHP/5.6.38-0+deb8u1
 GuzzleHttp/6.3.3 curl/7.47.0 PHP/7.0.33-0ubuntu0.16.04.15
+GuzzleHttp/6.3.3 curl/7.47.0 PHP/7.0.33-0ubuntu0.16.04.16
 GuzzleHttp/6.3.3 curl/7.47.0 PHP/7.2.1-1+ubuntu16.04.1+deb.sury.org+1
 GuzzleHttp/6.3.3 curl/7.47.0 PHP/7.4.7
 GuzzleHttp/6.3.3 curl/7.52.1 PHP/7.1.33-8+0~20200202.31+debian9~1.gbp266c28
+GuzzleHttp/6.3.3 curl/7.52.1 PHP/7.2.10
 GuzzleHttp/6.3.3 curl/7.52.1 PHP/7.3.11-1+0~20191026.48+debian9~1.gbpf71ca0
 GuzzleHttp/6.3.3 curl/7.58.0 PHP/7.2.24-0ubuntu0.18.04.3
 GuzzleHttp/6.3.3 curl/7.61.1 PHP/7.2.30
@@ -1168,13 +1213,20 @@ GuzzleHttp/6.5.3 curl/7.69.1 PHP/7.4.7
 GuzzleHttp/6.5.5 curl/7.29.0 PHP/7.4.11
 GuzzleHttp/6.5.5 curl/7.29.0 PHP/7.4.8
 GuzzleHttp/6.5.5 curl/7.47.0 PHP/7.1.16-1+ubuntu16.04.1+deb.sury.org+1
+GuzzleHttp/6.5.5 curl/7.47.0 PHP/7.1.33-2+ubuntu16.04.1+deb.sury.org+1
+GuzzleHttp/6.5.5 curl/7.47.0 PHP/7.4.10
+GuzzleHttp/6.5.5 curl/7.47.0 PHP/7.4.13
 GuzzleHttp/6.5.5 curl/7.52.1 PHP/7.2.34-4+0~20201018.51+debian9~1.gbpc553f7
+GuzzleHttp/6.5.5 curl/7.52.1 PHP/7.3.11-1+0~20191026.48+debian9~1.gbpf71ca0
+GuzzleHttp/6.5.5 curl/7.58.0 PHP/7.2.24-0ubuntu0.18.04.7
 GuzzleHttp/6.5.5 curl/7.58.0 PHP/7.4.0
 GuzzleHttp/6.5.5 curl/7.58.0 PHP/7.4.3
 GuzzleHttp/6.5.5 curl/7.61.1 PHP/7.3.19
 GuzzleHttp/6.5.5 curl/7.64.0 PHP/7.2.19
 GuzzleHttp/6.5.5 curl/7.64.0 PHP/7.4.8
 GuzzleHttp/6.5.5 curl/7.67.0 PHP/7.4.0
+GuzzleHttp/6.5.5 curl/7.68.0 PHP/7.4.12
+GuzzleHttp/6.5.5 curl/7.68.0 PHP/7.4.3
 GuzzleHttp/6.5.5 curl/7.68.0 PHP/7.4.9
 GuzzleHttp/6.5.5 curl/7.69.1 PHP/7.3.18
 GuzzleHttp/7
@@ -1308,6 +1360,7 @@ Iframely/1.3.1 (+https://gamemag.ru/iframely;)
 Iframely/1.3.1 (+https://iframely.com/docs/about)
 Iframely/1.4.2 (+https://github.com/itteco/iframely)
 Iframely/1.4.3 (+http://ohhtee.com)
+Iframely/1.4.4 (+http://localhost:8061)
 Iframely/1.4.5 (+https://github.com/itteco/iframely)
 IgnitionOneBot/Nutch-1.9
 IlTrovatore-Setaccio/1.2 (http://www.iltrovatore.it/aiuto/faq.html)
@@ -1342,6 +1395,9 @@ Jakarta Commons-HttpClient/3.0-rcx
 Jakarta Commons-HttpClient/3.1
 Jaunt/1.2
 Java 1.7 Apache HttpClient (Linux x86_64) / GnowitNewsbot / Contact information at http://www.gnowit.com
+Java-http-client/11.0.9
+Java-http-client/14.0.1
+Java-http-client/15.0.1
 Java/1.4.1
 Java/1.4.1-p3
 Java/1.4.1_01
@@ -1392,6 +1448,8 @@ Java/1.6.0_34
 Java/1.6.0_37
 Java/1.6.0_40
 Java/1.6.0_41
+Java/1.6.0_65
+Java/1.7.0_02
 Java/1.7.0_09
 Java/1.7.0_101
 Java/1.7.0_13
@@ -1405,6 +1463,7 @@ Java/1.7.0_65
 Java/1.7.0_75
 Java/1.7.0_79
 Java/1.7.0_80
+Java/1.7.0_95
 Java/1.8.0-ea
 Java/1.8.0_05
 Java/1.8.0_101
@@ -1442,9 +1501,12 @@ Java/1.8.0_242
 Java/1.8.0_251
 Java/1.8.0_252
 Java/1.8.0_261
+Java/1.8.0_261-snc1
 Java/1.8.0_262
+Java/1.8.0_262-heroku
 Java/1.8.0_265
 Java/1.8.0_272
+Java/1.8.0_275
 Java/1.8.0_31
 Java/1.8.0_40
 Java/1.8.0_45
@@ -1456,16 +1518,20 @@ Java/1.8.0_73
 Java/1.8.0_77
 Java/1.8.0_91
 Java/1.8.0_92
+Java/11.0.1
 Java/11.0.2
 Java/11.0.4
 Java/11.0.5
 Java/11.0.6
 Java/11.0.7
 Java/11.0.7-ea
+Java/11.0.8
 Java/12.0.1
 Java/13.0.1
 Java/14.0.1
 Java/14.0.2
+Java/15-ea
+Java/15.0.1
 Java/9.0.4
 Java1.0.21.0
 Java1.2.1
@@ -1481,6 +1547,7 @@ Java1.4.0_02
 Java1.4.0_03
 Java1.4.2_03
 Java1.8.0_212
+JavaUnfurlBot/0.1
 Jaxified Bot (+http://www.jaxified.com/crawler/)
 Jeffrey's Exif Viewer (http://regex.info/exif)
 Jeode/1.x.x
@@ -1573,7 +1640,6 @@ LapozzBot/1.4 (+http://robot.lapozz.com)
 Lavf/56.15.102
 Lavf/57.25.100
 Lavf/57.41.100
-Lavf/57.56.100
 Leikibot/1.0 (+http://www.leiki.com)
 LexxeBot/1.0 (lexxebot@lexxe.com)
 Liferea/0.x.x (Linux; enUS.UTF-8; http://liferea.sf.net/)
@@ -1623,6 +1689,7 @@ LoadImpactRload/3.2.0 (Load Impact; http://loadimpact.com);
 LongURL API
 LumpImageSearch/0.1 (+http://lump.co/about/bot)
 Lynx/2.8 (;http://seebot.org)
+Lynx/2.9.0dev.5 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.6.13
 Lynx; Nintendo; PinBot
 MAZBot/1.0 (http://mazdigital.com)
 MB-SiteCrawler
@@ -1663,6 +1730,7 @@ MaxPointCrawler/Nutch-1.1 (maxpoint.crawler at maxpointinteractive dot com)
 MaxPointCrawler/Nutch-1.10 (maxpoint.crawler at maxpointinteractive dot com)
 MaxPointCrawler/Nutch-1.14 (maxpoint.crawler at maxpointinteractive dot com)
 MaxPointCrawler/Nutch-1.17 (maxpoint.crawler at maxpointinteractive dot com)
+MaxPointCrawler/Nutch-1.17 (valassis.crawler at valassis dot com)
 MdotLabsCrawler/1.0 (http://www.mdotlabs.com)
 MeMoNewsBot/2.0 (http://www.memonews.com/en/crawler)
 MeWeBot/1.0 (compatible; Mozilla/5.0; Googlebot/2.1; facebookexternalhit/1.1; +https://mewe.com/externalhit)
@@ -1675,6 +1743,7 @@ Mechanize/2.7.3 Ruby/1.9.3p551 (http://github.com/sparklemotion/mechanize/)
 Mechanize/2.7.5 Ruby/2.3.1p112 (http://github.com/sparklemotion/mechanize/)
 Mechanize/2.7.5 Ruby/2.3.7p456 (http://github.com/sparklemotion/mechanize/)
 Mechanize/2.7.5 Ruby/2.4.1p111 (http://github.com/sparklemotion/mechanize/)
+Mechanize/2.7.6 Ruby/2.6.5p114 (http://github.com/sparklemotion/mechanize/)
 Mediametric
 Mediapartners-Google
 Mediapartners-Google/2.1
@@ -1744,6 +1813,7 @@ Microsoft Office Word 2013 (15.0.4805) Windows NT 10.0
 Microsoft Office Word 2013 (15.0.4805) Windows NT 6.1
 Microsoft Office Word 2013 (15.0.4823) Windows NT 10.0
 Microsoft Office Word 2014
+Microsoft Office/12.0 (Windows NT 5.1; Picture Manager 12.0.4518; Pro)
 Microsoft Office/16.0 (Microsoft Outlook Mail 16.0.7167; Pro)Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; InfoPath.3; Microsoft Outlook 14.0.6025; ms-office; MSOf
 Microsoft Office/16.0 (Windows NT 10.0; Microsoft Excel 16.0.13231; Pro)
 Microsoft URL Control - 6.00.8862
@@ -1978,6 +2048,7 @@ Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/84.0.4147.108 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/85.0.4183.105 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/85.0.4183.140 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/87.0.4280.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Google-Publisher-Plugin) Chrome/27.0.1453 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/79.0.3945.120 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/80.0.3987.92 Mobile Safari/537.36
@@ -2001,6 +2072,7 @@ Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/85.0.4183.140 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/85.0.4183.93 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/86.0.4240.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/87.0.4280.90 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/[WEBKIT_VERSION] (KHTML, like Gecko; Mediapartners-Google) Chrome/[CHROME_VERSION] Mobile Safari/[WEBKIT_VERSION]
 Mozilla/5.0 (Linux; Android 4.1.1; HTC6435LVW Build/JRO03C; Neustar WPM) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Mobile Safari/537.22
 Mozilla/5.0 (Linux; Android 4.1.2; Galaxy Nexus Build/JZO54K; GTmetrix http://gtmetrix.com/) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.22
@@ -2033,6 +2105,7 @@ Mozilla/5.0 (Linux; Android 4.4; Nexus 5 Build/KRT16M) AppleWebKit/537.36 (KHTML
 Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)
 Mozilla/5.0 (Linux; Android 5.0.2; SM-G920T Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2125.111 Mobile Safari/537.36 DareBoost
 Mozilla/5.0 (Linux; Android 5.0.2; SM-G920T Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840 Mobile Safari/537.36 DareBoost
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G920T Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36 DareBoost
 Mozilla/5.0 (Linux; Android 5.0; LG-D855 Build/LRX21R.A1422018487) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile Safari/537.36 DareBoost
 Mozilla/5.0 (Linux; Android 5.0; LG-D855 Build/LRX21R.A1422018487) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840 Mobile Safari/537.36 DareBoost
 Mozilla/5.0 (Linux; Android 5.0; Nexus 5 Build/LRX21O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 PTST/276
@@ -2234,7 +2307,47 @@ Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like G
 Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36 PTST/200604.150630
 Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.83 Mobile Safari/537.36 PTST/200604.150630
 Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36 PTST/200604.150630
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36 PTST/201104.221132
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36 PTST/201110.231138
 Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Mobile Safari/537.36 PTST/201104.221132
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Mobile Safari/537.36 PTST/201109.191104
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Mobile Safari/537.36 PTST/201109.221105
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36 PTST/201104.221132
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36 PTST/201110.191131
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36 PTST/201110.231138
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Mobile Safari/537.36 PTST/201104.221132
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Mobile Safari/537.36 PTST/201109.221105
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Mobile Safari/537.36 PTST/201110.231138
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36 PTST/201110.231138
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36 PTST/201112.191139
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 PTST/210106.200150
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 PTST/210107.230116
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 PTST/210108.190123
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 PTST/210112.210151
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 PTST/210114.150129
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 PTST/210116.220127
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 PTST/210117.150109
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36 PTST/190509.230546 PTST/201112.191139
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36 PTST/190509.230546 PTST/201125.171127
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36 PTST/201112.191139
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36 PTST/201130.161108
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36 PTST/201201.211227
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36 PTST/201202.201200
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36 PTST/201202.231242
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201202.231242
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201204.141249
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201207.191227
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201208.021248
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201209.031210
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201209.141228
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201213.201206
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201216.211207
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201217.201245
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201218.151242
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/201231.221245
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/210101.210141
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/210104.190150
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 PTST/210106.000131
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3694.0 Mobile Safari/537.36 Chrome-Lighthouse
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Mobile Safari/537.36 Chrome-Lighthouse
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML, like Gecko) Chrome/61.0.3116.0 Mobile Safari/537.36 Chrome-Lighthouse
@@ -2316,7 +2429,15 @@ Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KH
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),gzip(gfe)
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4276.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4279.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),gzip(gfe)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.100 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.109 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.112 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4393.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z\xE2\x80\xA1 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/27.0.1453 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/41.0.2272.118 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, nh\xC6\xB0 Gecko) Chrome/W.X.Y.Z\xE2\x80\xA1 Mobile Safari/537.36 (t\xC6\xB0\xC6\xA1ng th\xC3\xADch; Googlebot/2.1; +http://www.google.com/bot.html)
@@ -2421,8 +2542,11 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/604.4.7 (KHTML, like
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~feedly-nikon3)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36 AdAuth/1.0; +https://www.adauth.com
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) adbeat.com/policy AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.1.2 Safari/604.1.38
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6; +feeder.co) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
@@ -2431,6 +2555,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) adbeat.com/policy AppleWebKit/53
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) Project-Resonance (http://project-resonance.com/) (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
@@ -2440,7 +2565,10 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/53
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36 (compatible; NameFo; https://namefo.com/)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: e~gaeid0919c)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~gaeid0921c)
@@ -2452,6 +2580,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, lik
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) adbeat.com/policy AppleWebKit/603.3.5 (KHTML, like Gecko) Version/12.1.1 Safari/603.3.5
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
@@ -2467,10 +2596,23 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/53
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) anywhere.app/8.2.0 Chrome/80.0.3987.165 Electron/8.5.0 Safari/537.36 Tc-webkit AppEngine-Google; (+http://code.google.com/appengine; appid: s~live-fullspectrum)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.24 (KHTML, like Gecko) (Contact: backend@getprismatic.com)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2; Shoppimon Analyzer (http://www.shoppimon.com/)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7 AppEngine-Google; (+http://code.google.com/appengine; appid: s~feedly-social)
@@ -2480,6 +2622,8 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.11 (KHTML, like G
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.71 (KHTML, like Gecko) Version/7.0 Safari/537.71 (Rival IQ, rivaliq.com)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/600.1.4 (KHTML, like Gecko) Safari/600.1.4 (compatible; Princetonbot/1.0; +http://http://tigress-web.princeton.edu/~fy/bot.html)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.1(2.5.3) Safari(ReederForMac)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
 Mozilla/5.0 (Macintosh; Intel Mac OS X) Excel/14.10.0
 Mozilla/5.0 (Macintosh; Intel Mac OS X) Excel/14.62.0
 Mozilla/5.0 (Macintosh; Intel Mac OS X) PowerPoint/14.39.0
@@ -2520,9 +2664,13 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36 WebSpider 2.0
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 (compatible; Sitebulb/1.1; +https://sitebulb.com)
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 PTST/348
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 PTST/391
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3835.0 Safari/537.36 (compatible; Sitebulb/1.1; +https://sitebulb.com)
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: b~d1d5d54dd1idd1-006)
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) anywhere.app/1.8.701 Chrome/80.0.3987.165 Electron/8.5.0 Safari/537.36 Tc-webkit AppEngine-Google; (+http://code.google.com/appengine; appid: s~live-fullspectrum)
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) anywhere.app/8.1.4 Chrome/80.0.3987.165 Electron/8.5.0 Safari/537.36 Tc-webkit AppEngine-Google; (+http://code.google.com/appengine; appid: s~live-fullspectrum)
 Mozilla/5.0 (Windows NT 10.0; WOW64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
 Mozilla/5.0 (Windows NT 10.0; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0 AppEngine-Google; (+http://code.google.com/appengine; appid: b~f1f5f54ff1aff1-007)
 Mozilla/5.0 (Windows NT 10.0; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~r1y5y54rr1iyr1-007)
 Mozilla/5.0 (Windows NT 10.0; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0 - James BOT - WebCrawler http://cognitiveseo.com/bot.html
@@ -2550,6 +2698,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4158.1 Safari/537.36 TinEye/1.0 (via http://www.tineye.com/)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 TinEye/1.0 (via http://www.tineye.com/)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~surf702-hrd)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.465 TinEye/1.0 (via http://www.tineye.com/)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 TinEye/1.0 (via http://www.tineye.com/)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BuiltWith/1.0; +http://builtwith.com/biup) Chrome/74.0.3729.131 Safari/537.36
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
@@ -2585,12 +2735,29 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.70
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.198
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.271
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.41
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.400
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 Edg/87.0.664.41
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; BDCbot/1.0; +http://bigweb.bigdatacorp.com.br/faq.aspx) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Googlebot/2.1)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) adbeat.com/policy Gecko/20100101 Firefox/58.0
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~haining-len)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~haining-len-04)
@@ -2604,6 +2771,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) adbeat.com/policy Gecko/20100
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) adbeat.com/policy Gecko/20100101 Firefox/80.0
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) adbeat.com/policy Gecko/20100101 Firefox/81.0
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) adbeat.com/policy Gecko/20100101 Firefox/82.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) adbeat.com/policy Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) adbeat.com/policy Gecko/20100101 Firefox/84.0
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; trendictionbot0.5.0; trendiction search; http://www.trendiction.de/bot; please let us know of any problems; web at trendiction.com) Gecko/20170101 Firefox/67.0
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1 google_partner_monitoring FWSzVTDDBz14547302713138T
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5 AppEngine-Google; (+http://code.google.com/appengine; appid: s~akibadaili1)
@@ -2629,6 +2798,8 @@ Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1; 360Spider(compatible; HaosouSpider; http://www.haosou.com/help/help_3_2.html)
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1; http://spyonweb.com spyonweb@gmail.com
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2228.0 Safari/537.36 NimbusBot/1.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~surf702-hrd)
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: e~zefanqiang5)
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 YaBrowser/15.12.0.6151 Safari/537.36 Yandex.Translate
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36 PTST/277
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36 PTST/284
@@ -2645,6 +2816,8 @@ Mozilla/5.0 (Windows NT 6.1) adbeat.com/policy AppleWebKit/537.36 (KHTML, like G
 Mozilla/5.0 (Windows NT 6.1)+(compatible; SMTBot/1.0; +http://www.similartech.com/smtbot)
 Mozilla/5.0 (Windows NT 6.1; Neustar WPM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36
 Mozilla/5.0 (Windows NT 6.1; Neustar WPM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Neustar WPM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Neustar WPM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
 Mozilla/5.0 (Windows NT 6.1; StumbleUpon; noc@stumbleupon.com) Chrome/58.0.3029.110 Safari/537.36
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0; PTST 2.386) like Gecko
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) MsnBot-Media /1.0b
@@ -2687,6 +2860,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0 Safari/537.36 YottaaMonitor
 Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
 Mozilla/5.0 (Windows NT 6.1; WOW64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4230.1 Safari/537.36
 Mozilla/5.0 (Windows NT 6.1; WOW64; Neustar WPM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36
 Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko PTST/276
 Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko PTST/277
@@ -2700,6 +2874,7 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0 Evidon 
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0; GomezAgent 3.0) Gecko/20100101 Firefox/38.0
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0; Neustar WPM) Gecko/20100101 Firefox/38.0
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0 PTST/276
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0; Neustar WPM) Gecko/20100101 Firefox/45.0
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0 PTST/277
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0 PTST/278
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0 PTST/279
@@ -2728,6 +2903,11 @@ Mozilla/5.0 (Windows NT 6.1; Win64; x64; +http://www.komodia.com/newwiki/index.p
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0; https://app.limber.io) Gecko/20100101 Firefox/25.0
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) RedirectBot/1.0
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:78.0) adbeat.com/policy Gecko/20100101 Firefox/78.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) adbeat.com/policy Gecko/20100101 Firefox/79.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) adbeat.com/policy Gecko/20100101 Firefox/81.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) adbeat.com/policy Gecko/20100101 Firefox/82.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) adbeat.com/policy Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) adbeat.com/policy Gecko/20100101 Firefox/84.0
 Mozilla/5.0 (Windows NT 6.1; compatible; BDCbot/1.0; +http://bigweb.bigdatacorp.com.br/faq.aspx) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
 Mozilla/5.0 (Windows NT 6.1; compatible; BDCbot/1.0; +http://ecommerce.bigdatacorp.com.br/faq.aspx) AppleWebKit/535.1 (KHTML like Gecko) Chrome/13.0.782.107 Safari/535.1
 Mozilla/5.0 (Windows NT 6.1; compatible; BDCbot/1.0; +http://ecommerce.bigdatacorp.com.br/faq.aspx) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1
@@ -2739,6 +2919,7 @@ Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0 AppEngine-Goog
 Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0 (IndeedBot 1.1)
 Mozilla/5.0 (Windows NT 6.1; rv:38.0; Neustar WPM) Gecko/20100101 Firefox/38.0
 Mozilla/5.0 (Windows NT 6.1; rv:40.0; StumbleUpon; noc@stumbleupon.com) Gecko/20100101 Firefox/40.1
+Mozilla/5.0 (Windows NT 6.1; rv:45.0; Neustar WPM) Gecko/20100101 Firefox/45.0
 Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google (+https://developers.google.com/+/web/snippet/)
 Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
 Mozilla/5.0 (Windows NT 6.1; stumbleupon.com) Chrome/58.0.3029.110 Safari/537.36
@@ -2755,6 +2936,7 @@ Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome
 Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/98 Safari/537.4 (StatusCake)
 Mozilla/5.0 (Windows NT 6.2; WOW64) Runet-Research-Crawler (itrack.ru/research/cmsrate; rating@itrack.ru)
 Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36 _zbot
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~surf702-hrd)
 Mozilla/5.0 (Windows NT 6.2; rv:30.0) Gecko/20150101 Firefox/32.0 360Spider 360Spider
 Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv 11.0) like Gecko (compatible; Zombiebot/2.1; +http://www.zombiedomain.net/robot/)
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
@@ -2772,12 +2954,14 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 PTST/249
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 PTST/254
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 PTST/257
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36 PTST/254
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 PTST/276
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36 PTST/277
 Mozilla/5.0 (Windows NT 6.3; WOW64) adbeat.com/policy AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
 Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko PTST/276
 Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko PTST/402
 Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; BingPreview/1.0b) like Gecko
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0; Neustar WPM) Gecko/20100101 Firefox/31.0
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0 (NetShelter ContentScan, contact abuse@inpwrd.com for information)
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0 PTST/276
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0 PTST/277
@@ -2838,6 +3022,7 @@ Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.2.3) Gecko/20100401 Firef
 Mozilla/5.0 (X11; BSD Four) AppleWebKit/534.34 (KHTML, like Gecko) webkit2png Safari/534.34
 Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/8EBE87
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:82.0) adbeat.com/policy Gecko/20100101 Firefox/82.0
 Mozilla/5.0 (X11; Linux i686 on x86_64; rv:25.0; GTmetrix http://gtmetrix.com/) Gecko/20100101 Firefox/25.0
 Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/30.0.1599.101 Safari/537.36; SSL-Crawler: http://crawler.dcsec.uni-hannover.de
 Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36; SSL-Crawler: http://crawler.dcsec.uni-hannover.de
@@ -2858,6 +3043,7 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) wkhtmltop
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.51 (KHTML, like Gecko; Google Web Preview) Chrome/12.0.742 Safari/534.51
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535. Safari/535.22+; (+http://immediatenet.com/thumbnail_api.html; free thumbnails)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21 PagePeeker/2.1; +http://pagepeeker.com/robots/
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.8 (KHTML, like Gecko; Google Page Speed Insights) Chrome/19.0.1084.36 Safari/536.8
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.8 (KHTML, like Gecko; Google Web Preview) Chrome/19.0.1084.36 Safari/536.8
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.21 (KHTML, like Gecko) Chromium/31.0.1650.63 Site-Shot/2.1 (http://www.site-shot.com/) Safari/537.21
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.21 (KHTML, like Gecko) Site-Shot/2.1 (http://www.site-shot.com/) Safari/537.21
@@ -2889,8 +3075,10 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36 PTST/170810.150817
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 PTST/170828.150827
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 PTST/170803.010845
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36 PTST/170908.190906
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 PTST/170928.190908
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 PTST/171016.121042
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 PTST/170908.190906
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36 PTST/170914.180908
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36 PTST/171129.171147
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36 PTST/171213.181240
@@ -2932,6 +3120,7 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36 PTST/180801.140822
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 PTST/180904.190957
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 PTST/19.04
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36 PTST/190808.190823
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 DareBoost
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 Chrome-Lighthouse
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36 PTST/200211.200247
@@ -3036,6 +3225,10 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 PTST/201104.151122
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 PTST/201104.191133
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 PTST/201104.221132
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36 PTST/201104.221132
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36 PTST/201109.221105
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36 PTST/201110.231138
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 PTST/201112.191139
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 PTST/201001.181015
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 PTST/201007.171048
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 PTST/201007.191047
@@ -3045,12 +3238,53 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 PTST/201014.151018
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 PTST/201018.191014
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 PTST/201019.151021
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 PTST/210106.200150
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 PTST/210107.220151
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 PTST/210107.230116
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 PTST/210108.190123
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 PTST/210112.210151
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 PTST/210114.150129
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 PTST/210117.150109
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 PTST/210119.200125
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 PTST/201112.191139
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 PTST/201119.201155
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 PTST/201122.151115
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 PTST/201125.171127
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 PTST/201130.161108
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 PTST/201201.211227
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 PTST/201202.231242
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201130.161108
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201202.211248
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201202.231242
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201204.141249
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201207.191227
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201208.021248
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201208.211219
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201209.001235
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201209.031210
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201209.141228
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201213.201206
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201220.221201
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201221.201206
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201222.161247
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201223.161206
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201227.171201
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201229.171205
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/201231.221245
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/210101.210141
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/210104.190150
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/210106.000131
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/210106.170108
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 PTST/210106.200150
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 PTST/210120.190146
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/60.0.3095.0 Safari/537.36 SeoSiteCheckup (https://seositecheckup.com)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/61.0.3163.59 Safari/537.36 Prerender (+https://github.com/prerender/prerender)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/65.0.3325.181 Safari/537.36 Prerender (+https://github.com/prerender/prerender)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/66.0.3336.0 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/68.0.3440.106 Safari/537.36 Prerender (+https://github.com/prerender/prerender)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/68.0.3440.75 Safari/537.36 Prerender (+https://github.com/prerender/prerender)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/72.0.3626.121 Safari/537.36 Prerender (+https://github.com/prerender/prerender)
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/79.0.3945.117 Safari/537.36 Prerender (+https://github.com/prerender/prerender)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/83.0.4103.97 Safari/537.36 Prerender (+https://github.com/prerender/prerender)
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Lush Http Client
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Slack/1.2.6 Chrome/45.0.2454.85 AtomShell/0.34.3 Safari/537.36 Slack_SSB/1.2.6
@@ -3099,9 +3333,13 @@ Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0 Ghost Inspe
 Mozilla/5.0 (X11; Linux x86_64; rv:52.0.2) Gecko/20100101 Firefox/52.0.2 Ghost Inspector
 Mozilla/5.0 (X11; Linux x86_64; rv:54.0; GTmetrix https://gtmetrix.com/) Gecko/20100101 Firefox/54.0
 Mozilla/5.0 (X11; Linux x86_64; rv:57.0) adbeat.com/policy Gecko/20100101 Firefox/57.0
+Mozilla/5.0 (X11; Linux x86_64; rv:68.0) adbeat.com/policy Gecko/20100101 Firefox/68.0
 Mozilla/5.0 (X11; Linux x86_64; rv:73.0) adbeat.com/policy Gecko/20100101 Firefox/73.0
 Mozilla/5.0 (X11; Linux x86_64; rv:77.0) adbeat.com/policy Gecko/20100101 Firefox/77.0
+Mozilla/5.0 (X11; Linux x86_64; rv:78.0) adbeat.com/policy Gecko/20100101 Firefox/78.0
 Mozilla/5.0 (X11; Linux x86_64; rv:79.0) adbeat.com/policy Gecko/20100101 Firefox/79.0
+Mozilla/5.0 (X11; Linux x86_64; rv:82.0) adbeat.com/policy Gecko/20100101 Firefox/82.0
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) adbeat.com/policy Gecko/20100101 Firefox/83.0
 Mozilla/5.0 (X11; U; Linux Core i7-4980HQ; de; rv:32.0; compatible; Jobboerse.com; http://www.xn--jobbrse-d1a.com) Gecko/20100401 Firefox/24.0
 Mozilla/5.0 (X11; U; Linux Core i7-4980HQ; de; rv:32.0; compatible; JobboerseBot; http://www.jobboerse.com/bot.htm) Gecko/20100101 Firefox/38.0
 Mozilla/5.0 (X11; U; Linux Core i7-4980HQ; de; rv:32.0; compatible; JobboerseBot; https://www.jobboerse.com/bot.htm) Gecko/20100101 Firefox/38.0
@@ -3143,6 +3381,8 @@ Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) adbeat.com/policy Gecko/2010010
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) adbeat.com/policy Gecko/20100101 Firefox/79.0
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) adbeat.com/policy Gecko/20100101 Firefox/80.0
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) adbeat.com/policy Gecko/20100101 Firefox/81.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) adbeat.com/policy Gecko/20100101 Firefox/82.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:83.0) adbeat.com/policy Gecko/20100101 Firefox/83.0
 Mozilla/5.0 (X11; compatible; semantic-visions.com crawler; HTTPClient 3.1)
 Mozilla/5.0 (X11; compatible; semantic-visions.com crawler; HTTPClient 4.5)
 Mozilla/5.0 (Yahoo-MMCrawler/4.0; mailto:vertical-crawl-support@yahoo-inc.com)
@@ -3308,6 +3548,7 @@ Mozilla/5.0 (compatible; DNS SSL/TLS HTTP HTML Website Security Scanner/0.2 beta
 Mozilla/5.0 (compatible; DNS SSL/TLS HTTP and HTML scanner/0.1; +https://www.htmlyse.com/)
 Mozilla/5.0 (compatible; DNS-Digger-Explorer/1.0; +http://www.dnsdigger.com)
 Mozilla/5.0 (compatible; DNS-Digger/1.0; +http://www.dnsdigger.com)
+Mozilla/5.0 (compatible; DNSResearchBot/2.1; +http://195.37.190.77)
 Mozilla/5.0 (compatible; DataXu/1.0; +http://dataxu.com)
 Mozilla/5.0 (compatible; Dataprovider Site Explorer; http://www.dataprovider.com/)
 Mozilla/5.0 (compatible; Dataprovider.com;)
@@ -4285,6 +4526,7 @@ Mozilla/5.0 (compatible; startmebot/1.0; +http://www.start.me/bot)
 Mozilla/5.0 (compatible; startmebot/1.0; +https://start.me/bot)
 Mozilla/5.0 (compatible; suggybot v0.01a, http://blog.suggy.com/was-ist-suggy/suggy-webcrawler/)
 Mozilla/5.0 (compatible; sukibot_heritrix/3.1.1 +http://suki.ling.helsinki.fi/eng/webmasters.html)
+Mozilla/5.0 (compatible; tchelebi/1.0; +http://tchelebi.io)
 Mozilla/5.0 (compatible; techleadzbot/1.1; +http://techleadz.io)
 Mozilla/5.0 (compatible; theoldreader.com)
 Mozilla/5.0 (compatible; tldstat.com/Bot; +http://tldstat.com/bot.html)
@@ -4355,9 +4597,11 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) adbeat.com/policy AppleWe
 Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) adbeat.com/policy AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A5370a Safari/604.1
 Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1 (GoogleBot)
 Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Snapchat/10.72.0.2 (like Safari/604.1)
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 AppEngine-Google; (+http://code.google.com/appengine; appid: zet~vip-hinatazaka46-01)
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) adbeat.com/policy AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1 AppEngine-Google; (+http://code.google.com/appengine; appid: s~surf702-hrd)
 Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) (compatible; Yeti-Mobile/0.1; +http://help.naver.com/robots/)
 Mozilla/5.0 (iPhone; CPU iPhone OS 60 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
@@ -4386,6 +4630,7 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTM
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; http://www.bing.com/bingbot.htm)
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/9643
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit (KHTML, like Gecko) Mobile (compatible; Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html)
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit (KHTML, like Gecko) Mobile (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
 Mozilla/5.0 (iPhone; CPU iPhone OS 81 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4 (Applebot/0.1; +http://www.apple.com/go/applebot)
@@ -4431,6 +4676,7 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML like Gecko; compatible; Googlebot/2.1; +ht
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36 (Refindbot/1.0)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Safari/537.36 (compatible; Google-Shopping-Quality +http://www.google.com/merchants/tos/extend/IL/tos.html)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.108 Safari/537.36 (compatible; Google-Shopping-Quality +http://www.google.com/merchants/tos/extend/IL/tos.html)
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.140 Safari/537.36 (compatible; Google-Shopping-Quality +http://www.google.com/merchants/tos/extend/RU/tos.html)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/41.0.2272.118 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/80.0.3987.92 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
@@ -4447,6 +4693,7 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/85.0.4183.136 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/85.0.4183.140 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/85.0.4183.93 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/87.0.4280.90 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1;
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/41.0.2272.118 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/75.0.3761.0 Safari/537.36
@@ -4479,7 +4726,9 @@ Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +h
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/86.0.4240.96 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/87.0.4256.0 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/87.0.4265.0 Safari/537.36
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/87.0.4280.90 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/88.0.4291.0 Safari/537.36
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/89.0.4383.0 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/W.X.Y.Z\x87 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/W.X.Y.Z\xE2\x80\xA1 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.3
@@ -4499,6 +4748,8 @@ Mozilla/5.0 PhantomJS (compatible; Seznam screenshot-generator 2.1; +http://full
 Mozilla/5.0 PhantomJS (compatible; Seznam screenshot-generator 2.1; +http://fulltext.sblog.cz/screenshot/)
 Mozilla/5.0 Project 25499 (project25499.com)
 Mozilla/5.0 SeznamEmailProxy/0.0.34
+Mozilla/5.0 SeznamEmailProxy/0.0.42
+Mozilla/5.0 SeznamEmailProxy/0.0.44
 Mozilla/5.0 SeznamEmailProxy/1.0
 Mozilla/5.0 SeznamEmailProxy/2.0.179
 Mozilla/5.0 SeznamEmailProxy/2.0.180
@@ -4598,8 +4849,10 @@ New-Sogou-Spider/1.0 (compatible; MSIE 5.5; Windows 98)
 NewRelicPinger/1.0 (543245)
 NewsBlur Favicon Fetcher - 1 subscriber - http://www.newsblur.com/site/6383570/blog-about-skype (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3)
 NewsBlur Favicon Fetcher - 3 subscribers - http://www.newsblur.com/site/6383570/blog-about-skype (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3)
+NewsBlur Favicon Fetcher - 3 subscribers - https://www.newsblur.com/site/6383570/blog-about-skype (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3)
 NewsBlur Page Fetcher - 1 subscriber - http://www.newsblur.com/site/6383570/blog-about-skype (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3)
 NewsBlur Page Fetcher - 3 subscribers - http://www.newsblur.com/site/6383570/blog-about-skype (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3)
+NewsBlur Page Fetcher - 3 subscribers - https://www.newsblur.com/site/6383570/blog-about-skype (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3)
 NewsBlur Page Fetcher - 4 subscribers - http://www.newsblur.com/site/1013890/ (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3)
 NewsGator FetchLinks extension/0.2.0 (http://graemef.com)
 NewsGator/2.0 Bot (http://www.newsgator.com)
@@ -4718,12 +4971,18 @@ PHP/5.2.14
 PHP/5.2.27
 PHP/5.2.8
 PHP/5.2.9
+PHP/5.2.91
+PHP/5.3.00
 PHP/5.3.28
 PHP/5.3.29
 PHP/5.3.46
 PHP/5.3.59
+PHP/5.3.65
+PHP/5.3.74
+PHP/5.3.75
 PHP/5.4.24
 PHP/5.4.45
+PHP/6.2.95
 PHP/{5|6|7}.{3|2}.{1|2|3|4|5|6|7|8|9|0}{1|2|3|4|5|6|7|8|9|0}
 PINGOMETER_BOT_(HTTPS://PINGOMETER.COM)
 POE-Component-Client-HTTP/0.895 (perl; N; POE; en; rv:0.895000)
@@ -4760,6 +5019,7 @@ PingSpot/1.0 (http://www.pingspot.org/)
 Pingability.com Monitoring Service
 Pingdom GIGRIB (http://www.pingdom.com)
 Pingdom.com_bot_version_1.4_(http://www.pingdom.com/)
+PingdomTMS
 Pingoscope
 Pinterest/0.1 (+https://www.pinterest.com/bot.html)
 Pinterest/0.1 +http://pinterest.com
@@ -4775,6 +5035,7 @@ Pixray-Seeker/2.0 (Pixray-Seeker; http://www.pixray.com/pixraybot; crawler@pixra
 Pixray-Seeker/2.0 (http://www.pixray.com/pixraybot; crawler@pixray.com)
 Pizilla++ ver 2.45
 Plagger/0.x.xx (http://plagger.org/)
+Pleroma 2.1.50-495-gf9ece1a7-develop+dev; https://search.fedi.app <pleroma@search.fedi.app>; Bot
 PleskBot
 Ploetz + Zeller (http://www.ploetz-zeller.de) Link Validator v1.0 (support@p-und-z.de) for ARIS Business Architect
 PocketImageCache/1.0
@@ -4790,6 +5051,7 @@ PostPost/1.0 (+http://postpost.com/crawlers)
 PostRank/2.0 (postrank.com)
 PostRank/2.0 (postrank.com; 1 subscribers)
 PostmanRuntime/7.1.1
+PostmanRuntime/7.15.2
 PostmanRuntime/7.16.3
 PostmanRuntime/7.17.1
 PostmanRuntime/7.19.0
@@ -4803,6 +5065,7 @@ PostmanRuntime/7.26.1
 PostmanRuntime/7.26.2
 PostmanRuntime/7.26.3
 PostmanRuntime/7.26.5
+PostmanRuntime/7.26.8
 PostmanRuntime/7.6.0
 Prebid.js Scraper
 Priceonomics Analysis Engine - Fetch/1.0
@@ -4833,8 +5096,10 @@ PycURL/7.43.0 libcurl/7.55.1 WinSSL zlib/1.2.11
 PycURL/7.43.0.2 libcurl/7.47.0 GnuTLS/3.4.10 zlib/1.2.8 libidn/1.32 librtmp/2.3
 PycURL/7.43.0.2 libcurl/7.64.0 GnuTLS/3.6.7 zlib/1.2.11 libidn2/2.0.5 libpsl/0.20.2 (+libidn2/2.0.5) libssh2/1.8.0 nghttp2/1.36.0 librtmp/2.3
 PycURL/7.43.0.5 libcurl/7.58.0 OpenSSL/1.1.1 zlib/1.2.11 libidn2/2.0.4 libpsl/0.19.1 (+libidn2/2.0.4) nghttp2/1.30.0 librtmp/2.3
+PycURL/7.43.0.6 libcurl/7.68.0 OpenSSL/1.1.1f zlib/1.2.11 brotli/1.0.7 libidn2/2.2.0 libpsl/0.21.0 (+libidn2/2.2.0) libssh/0.9.3/openssl/zlib nghttp2/1.40.0 librtmp/2.3
 Python-httplib2/0.10.3 (gzip)
 Python-httplib2/0.17.3 (gzip)
+Python-httplib2/0.18.1 (gzip)
 Python-httplib2/0.7.4 (gzip)
 Python-httplib2/0.9.2 (gzip)
 Python-urllib/1.15
@@ -4884,11 +5149,21 @@ Python/3.6 aiohttp/3.5.4
 Python/3.6 aiohttp/3.6.2
 Python/3.6 aiohttp/3.6.3
 Python/3.6 aiohttp/3.7.1
+Python/3.6 aiohttp/3.7.2
+Python/3.6 aiohttp/3.7.3
 Python/3.7 aiohttp/3.0.9
+Python/3.7 aiohttp/3.4.4
 Python/3.7 aiohttp/3.5.4
+Python/3.7 aiohttp/3.6.0
 Python/3.7 aiohttp/3.6.2
+Python/3.7 aiohttp/3.7.2
+Python/3.7 aiohttp/3.7.3
 Python/3.8 aiohttp/3.5.4
 Python/3.8 aiohttp/3.6.2
+Python/3.8 aiohttp/3.6.3
+Python/3.8 aiohttp/3.7.2
+Python/3.8 aiohttp/3.7.3
+Python/3.9 aiohttp/3.7.3
 Qirina Hurdler v. 1.05 10.11.01 (+http://www.qirina.com/hurdler.html)
 QrafterPro/4600 CFNetwork/889.9 Darwin/17.2.0
 Qseero v1.0.0
@@ -5073,6 +5348,8 @@ Scrapy/2.1.0 (+https://scrapy.org)
 Scrapy/2.2.0 (+https://scrapy.org)
 Scrapy/2.2.1 (+https://scrapy.org)
 Scrapy/2.3.0 (+https://scrapy.org)
+Scrapy/2.4.0 (+https://scrapy.org)
+Scrapy/2.4.1 (+https://scrapy.org)
 Screaming Frog SEO Spider/1.90
 Screaming Frog SEO Spider/10.1
 Screaming Frog SEO Spider/10.2
@@ -5090,6 +5367,9 @@ Screaming Frog SEO Spider/12.6
 Screaming Frog SEO Spider/13.0
 Screaming Frog SEO Spider/13.1
 Screaming Frog SEO Spider/13.2
+Screaming Frog SEO Spider/14.0
+Screaming Frog SEO Spider/14.1
+Screaming Frog SEO Spider/14.2 Beta 3
 Screaming Frog SEO Spider/2.00
 Screaming Frog SEO Spider/2.11
 Screaming Frog SEO Spider/2.20
@@ -5236,6 +5516,7 @@ SiteCheck - http://downforeveryoneorjustme.com
 SiteCheckerBot/1.0 (+http://sitechecker.pro)
 SiteGuardian/2.0 (Internet Monitoring)
 SiteSucker for macOS/2.10.6
+SiteSucker/2.3.4
 SiteSucker/2.3.6
 SiteSucker/2.4.6
 SiteTruth.com site rating system
@@ -5254,6 +5535,7 @@ Slackbot 1.0 (+https://api.slack.com/robots)
 Slackbot-LinkExpanding (+https://api.slack.com/robots)
 Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
 SmabblerBot/1.0 (http://www.smabbler.com/)
+SmerBot/0.1 (smerity@smerity.com) Language Model Dataset Fetcher
 Snap/1.0 (+https://www.diffbot.com/dev/docs/crawl/)
 Snapbot/1.0 (Snap Shots, +http://www.snap.com)
 Snapchat/10.28.0.25 (iPhone9,3; iOS 11.2.5; gzip)
@@ -5276,6 +5558,7 @@ Snapchat/10.76.5.67 (iPhone10,6; iOS 13.3.1; gzip)
 Snapchat/10.76.5.67 (iPhone6,2; iOS 12.4.5; gzip)
 Snapchat/10.77.5.0 (SM-G975U; Android 10#G975USQS3CTA3#29; gzip) V/MUSHROOM
 Snapchat/10.77.5.59 (iPhone12,5; iOS 13.3.1; gzip)
+Snapchat/10.78.1.0 (RMX2030; Android 10#1602498266#29; gzip) V/MUSHROOM
 Snapchat/10.78.5.65 (iPhone8,4; iOS 11.0; gzip)
 Snapchat/10.78.6.0 (SM-G955F; Android 9#G955FXXS6DTA1#28; gzip) V/MUSHROOM
 Snapchat/10.78.6.0 (iPhone11,2; iOS 13.3.1; gzip)
@@ -5316,6 +5599,7 @@ Snapchat/10.83.0.0 (SM-G985F; Android 10#G985FXXS2ATD5#29; gzip) V/MUSHROOM
 Snapchat/10.83.1.69 (iPhone10,5; iOS 13.4.1; gzip)
 Snapchat/10.83.1.69 (iPhone11,8; iOS 13.4.1; gzip)
 Snapchat/10.84.0.0 (SM-N975U; Android 10#N975USQS3CTD3#29; gzip) V/MUSHROOM
+Snapchat/10.84.5.0 (SM-G988B; Android 10#G988BXXS2ATE7#29; gzip) V/MUSHROOM
 Snapchat/10.85.5.77 (iPhone9,4; iOS 13.5.1; gzip)
 Snapchat/10.87.1.69 (iPhone11,2; iOS 13.5.1; gzip)
 Snapchat/10.87.1.69 (iPhone12,5; iOS 13.5.1; gzip)
@@ -5330,6 +5614,7 @@ Snapchat/10.89.2.64 (iPhone10,3; iOS 14.0; gzip)
 Snapchat/10.89.2.64 (iPhone11,8; iOS 14.0; gzip)
 Snapchat/10.89.7.78 (LM-X420; Android 9#201712030d865#28; gzip) V/MUSHROOM
 Snapchat/11.0.2.67 (iPhone11,2; iOS 13.6.1; gzip)
+Snapchat/11.0.6.81 (iPhone11,8; iOS 13.6.1; gzip)
 Snapchat/11.1.0.65 (iPhone11,6; iOS 13.7; gzip)
 Snapchat/11.1.0.65 (iPhone12,1; iOS 13.6.1; gzip)
 Snapchat/11.1.0.65 (iPhone12,3; iOS 14.0; gzip)
@@ -5339,6 +5624,12 @@ Snapchat/11.1.6.0 (iPhone11,8; iOS 14.0; gzip)
 Snapchat/11.1.6.81 (SM-G973U; Android 10#G973USQU4ETH7#29; gzip) V/MUSHROOM
 Snapchat/11.1.7.81 (SM-A115U; Android 10#A115USQU2ATG2#29; gzip) V/MUSHROOM
 Snapchat/11.2.0.68 (SM-N960U; Android 10#N960USQS5ETH4#29; gzip) V/MUSHROOM
+Snapchat/11.4.5.67 (iPhone9,3; iOS 14.2; gzip)
+Snapchat/11.7.0.62 (SM-A516U; Android 10#A516USQU3BTJ4#29; gzip) V/MUSHROOM
+Snapchat/11.7.0.62 (moto g(7) play; Android 9#97f98#28; gzip) V/MUSHROOM
+Snapchat/11.8.0.33 (iPhone10,2; iOS 14.3; gzip)
+Snapchat/11.8.0.33 (iPhone12,8; iOS 14.2; gzip)
+Snapchat/11.8.1.33 (iPhone10,6; iOS 13.5.1; gzip)
 Snappy/1.1 ( http://www.urltrends.com/ )
 Snappy/2.0 ( http://www.urltrends.com/ )
 Snarfer/0.x.x (http://www.snarfware.com/)
@@ -5427,6 +5718,7 @@ TeamSpeak3-ImageFetcher-1.0
 Technoratibot/7.0
 Technoratibot/8.0
 TelegramBot (like TwitterBot)
+TelegramBot (like TwitterBot),gzip(gfe)
 Tenon.io Automated Web Accessibility Tester
 TerrawizBot/1.0 (+http://www.terrawiz.com/bot.html)
 TerrawizBot/10.1 (IRIX 6.2; arLB;)
@@ -5452,6 +5744,7 @@ Testomatobot/1.0 (Linux x86_64; +http://www.testomato.com/testomatobot) minicraw
 Testomatobot/1.0 (Linux x86_64; +http://www.testomato.com/testomatobot) minicrawler/5.0.4
 TextRazor Downloader (https://www.textrazor.com)
 The Expert HTML Source Viewer (http://www.expert-html.com)
+The Incutio XML-RPC PHP Library -- WordPress/5.5.3
 The Knowledge AI
 The Knowledge AI the.knowledge.ai@gmail.com
 The Lemur Web Crawler/Nutch-1.3 (Lemur Web Crawler; http://boston.lti.cs.cmu.edu/crawler_12/; admin@lemurproject.org)
@@ -5474,6 +5767,7 @@ TinEye/1.0; +http://www.tineye.com/
 TinEye/1.1 (http://tineye.com/crawler.html)
 Tiny Tiny RSS/1.12 (http://tt-rss.org/)
 Tiny Tiny RSS/17.1 (ab39e21) (http://tt-rss.org/)
+Tiny Tiny RSS/17.12 (0cd4a88) (http://tt-rss.org/)
 Tiny Tiny RSS/17.4 (a6990df) (http://tt-rss.org/)
 Tiny Tiny RSS/19.8 (304d3a0) (http://tt-rss.org/)
 Tiny Tiny RSS/19.8 (84f162a) (http://tt-rss.org/)
@@ -5483,6 +5777,8 @@ Tiny Tiny RSS/20.07-e9a258c5d (http://tt-rss.org/)
 Tiny Tiny RSS/20.08-2b50aaed6 (http://tt-rss.org/)
 Tiny Tiny RSS/20.08-48be00577 (http://tt-rss.org/)
 Tiny Tiny RSS/20.08-5497a137d (http://tt-rss.org/)
+Tiny Tiny RSS/20.09-de22464ea (http://tt-rss.org/)
+Tiny Tiny RSS/UNKNOWN (Unsupported) (http://tt-rss.org/)
 TipTop http://feeltiptop.com
 Tools4noobs.com/1.0 Spider
 Topicbot/1.0 (Mozilla;I;+http://92.42.190.57/)
@@ -5534,6 +5830,7 @@ UnityPlayer/2019.2.19f1 (UnityWebRequest/1.0, libcurl/7.52.0-DEV)
 UniversalFeedParser/3.3 +http://feedparser.org
 UniversalFeedParser/3.3 +http://feedparser.org/
 UniversalFeedParser/4.2-pre-295-svn +http://feedparser.org
+UniversalFeedParser/5.0.1 +http://feedparser.org/ AppEngine-Google; (+http://code.google.com/appengine; appid: s~unmung2)
 UniversalFeedParser/5.2.1 +https://code.google.com/p/feedparser/
 Unshorten.It! /1.0 (unshorten.it)
 Unshorten.It!/1.0 (https://unshorten.it/)
@@ -5743,6 +6040,7 @@ Wget/1.19.4 (linux-gnueabihf)
 Wget/1.19.4 (mingw32)
 Wget/1.19.5 (darwin13.4.0)
 Wget/1.19.5 (darwin17.5.0)
+Wget/1.19.5 (darwin17.7.0)
 Wget/1.19.5 (linux-gnu)
 Wget/1.20 (linux-gnu)
 Wget/1.20.1 (linux-gnu)
@@ -5753,11 +6051,13 @@ Wget/1.20.3 (darwin17.7.0)
 Wget/1.20.3 (darwin18.6.0)
 Wget/1.20.3 (darwin18.7.0)
 Wget/1.20.3 (darwin19.0.0)
+Wget/1.20.3 (darwin20.1.0)
 Wget/1.20.3 (linux-android)
 Wget/1.20.3 (linux-gnu)
 Wget/1.20.3 (linux-gnueabihf)
 Wget/1.20.3 (linux-musl)
 Wget/1.20.3 (mingw32)
+Wget/1.21
 Wget/1.5.3
 Wget/1.6
 Wget/1.7
@@ -5807,6 +6107,7 @@ WhatsApp/0.4.316 N
 WhatsApp/0.4.612 N
 WhatsApp/0.4.613 N
 WhatsApp/0.4.930 N
+WhatsApp/2
 WhatsApp/2.12.15/i
 WhatsApp/2.12.16/i
 WhatsApp/2.12.17/i
@@ -5823,6 +6124,7 @@ WhatsApp/2.16.2/i
 WhatsApp/2.16.259 Mozilla/5.0(Android/4.3 Device/GalaxyS3) AppleWebKit/537.36 (KHTML, like Gecko)
 WhatsApp/2.16.42 A
 WhatsApp/2.16.57 A
+WhatsApp/2.16.95 A
 WhatsApp/2.17.214 W
 WhatsApp/2.17.223 A
 WhatsApp/2.17.250 A
@@ -5839,6 +6141,7 @@ WhatsApp/2.17.351 Android/4.1.2 Device/samsung-GT-S7392L
 WhatsApp/2.17.370 A
 WhatsApp/2.17.393 A
 WhatsApp/2.17.395 A
+WhatsApp/2.17.40 i
 WhatsApp/2.17.401 A
 WhatsApp/2.17.412 A
 WhatsApp/2.17.414 A
@@ -6033,6 +6336,7 @@ WhatsApp/2.20.117 A
 WhatsApp/2.20.119 A
 WhatsApp/2.20.120.21 i
 WhatsApp/2.20.121 A
+WhatsApp/2.20.121.4 i
 WhatsApp/2.20.122 A
 WhatsApp/2.20.123 A
 WhatsApp/2.20.123 Android/9 Device/TECNO_MOBILE_LIMITED-TECNO_LC6
@@ -6043,8 +6347,11 @@ WhatsApp/2.20.127 A
 WhatsApp/2.20.128 A
 WhatsApp/2.20.129 A
 WhatsApp/2.20.130 A
+WhatsApp/2.20.130.22 i
 WhatsApp/2.20.131 A
+WhatsApp/2.20.131.3 i
 WhatsApp/2.20.132 A
+WhatsApp/2.20.132.2 i
 WhatsApp/2.20.133 A
 WhatsApp/2.20.134 A
 WhatsApp/2.20.135 A
@@ -6099,6 +6406,7 @@ WhatsApp/2.20.186 A
 WhatsApp/2.20.187 A
 WhatsApp/2.20.188 A
 WhatsApp/2.20.189 A
+WhatsApp/2.20.190 A
 WhatsApp/2.20.191 A
 WhatsApp/2.20.192 A
 WhatsApp/2.20.193 A
@@ -6107,6 +6415,7 @@ WhatsApp/2.20.193.10 A
 WhatsApp/2.20.193.2 A
 WhatsApp/2.20.193.4 A
 WhatsApp/2.20.193.6 A
+WhatsApp/2.20.193.8 A
 WhatsApp/2.20.193.9 A
 WhatsApp/2.20.194.1 A
 WhatsApp/2.20.194.10 A
@@ -6172,6 +6481,7 @@ WhatsApp/2.20.197.9 A
 WhatsApp/2.20.198.1 A
 WhatsApp/2.20.198.11 A
 WhatsApp/2.20.198.12 A
+WhatsApp/2.20.198.13 A
 WhatsApp/2.20.198.14 A
 WhatsApp/2.20.198.15 A
 WhatsApp/2.20.198.16 A
@@ -6206,6 +6516,7 @@ WhatsApp/2.20.200.11 A
 WhatsApp/2.20.200.12 A
 WhatsApp/2.20.200.14 A
 WhatsApp/2.20.200.16 A
+WhatsApp/2.20.200.17 A
 WhatsApp/2.20.200.18 A
 WhatsApp/2.20.200.19 A
 WhatsApp/2.20.200.20 A
@@ -6226,9 +6537,11 @@ WhatsApp/2.20.201.19 A
 WhatsApp/2.20.201.2 A
 WhatsApp/2.20.201.20 A
 WhatsApp/2.20.201.21 A
+WhatsApp/2.20.201.22 A
 WhatsApp/2.20.201.23
 WhatsApp/2.20.201.23 A
 WhatsApp/2.20.201.23 A,gzip(gfe)
+WhatsApp/2.20.201.24 A
 WhatsApp/2.20.201.3 A
 WhatsApp/2.20.201.4 A
 WhatsApp/2.20.201.5 A
@@ -6238,9 +6551,13 @@ WhatsApp/2.20.201.8 A
 WhatsApp/2.20.201.9 A
 WhatsApp/2.20.202.1 A
 WhatsApp/2.20.202.10 A
+WhatsApp/2.20.202.12 A
+WhatsApp/2.20.202.15 A
 WhatsApp/2.20.202.16 A
 WhatsApp/2.20.202.18 A
 WhatsApp/2.20.202.2 A
+WhatsApp/2.20.202.21 A
+WhatsApp/2.20.202.24 A
 WhatsApp/2.20.202.3 A
 WhatsApp/2.20.202.4 A
 WhatsApp/2.20.202.5 A
@@ -6254,14 +6571,53 @@ WhatsApp/2.20.203.3 A
 WhatsApp/2.20.203.4 A
 WhatsApp/2.20.203.5 A
 WhatsApp/2.20.205.1 A
+WhatsApp/2.20.205.10 A
+WhatsApp/2.20.205.11 A
+WhatsApp/2.20.205.13 A
+WhatsApp/2.20.205.14 A
+WhatsApp/2.20.205.15 A
+WhatsApp/2.20.205.16 A
+WhatsApp/2.20.205.17 A
 WhatsApp/2.20.205.2 A
 WhatsApp/2.20.205.4 A
 WhatsApp/2.20.205.5 A
 WhatsApp/2.20.205.6 A
 WhatsApp/2.20.205.7 A
+WhatsApp/2.20.205.8 A
 WhatsApp/2.20.206.1 A
+WhatsApp/2.20.206.10 A
+WhatsApp/2.20.206.11 A
+WhatsApp/2.20.206.15 A
+WhatsApp/2.20.206.16 A
+WhatsApp/2.20.206.18 A
+WhatsApp/2.20.206.19 A
 WhatsApp/2.20.206.2 A
+WhatsApp/2.20.206.21 A
+WhatsApp/2.20.206.22 A
+WhatsApp/2.20.206.24 A
+WhatsApp/2.20.206.3 A
 WhatsApp/2.20.206.4 A
+WhatsApp/2.20.206.5 A
+WhatsApp/2.20.206.6 A
+WhatsApp/2.20.206.7 A
+WhatsApp/2.20.206.8 A
+WhatsApp/2.20.206.9 A
+WhatsApp/2.20.207.1 A
+WhatsApp/2.20.207.10 A
+WhatsApp/2.20.207.11 A
+WhatsApp/2.20.207.12 A
+WhatsApp/2.20.207.15 A
+WhatsApp/2.20.207.17 A
+WhatsApp/2.20.207.18 A
+WhatsApp/2.20.207.19 A
+WhatsApp/2.20.207.2 A
+WhatsApp/2.20.207.20 A
+WhatsApp/2.20.207.3 A
+WhatsApp/2.20.207.4 A
+WhatsApp/2.20.207.5 A
+WhatsApp/2.20.207.7 A
+WhatsApp/2.20.207.8 A
+WhatsApp/2.20.207.9 A
 WhatsApp/2.20.21 A
 WhatsApp/2.20.21 i
 WhatsApp/2.20.22 i
@@ -6369,6 +6725,38 @@ WhatsApp/2.2043.17 N
 WhatsApp/2.2043.19 N
 WhatsApp/2.2043.21 N
 WhatsApp/2.2043.22 N
+WhatsApp/2.2045.19 N
+WhatsApp/2.2047.10 N
+WhatsApp/2.2047.11 N
+WhatsApp/2.2047.12 N
+WhatsApp/2.2047.13 N
+WhatsApp/2.2047.7 N
+WhatsApp/2.2049.10 N
+WhatsApp/2.2049.6 N
+WhatsApp/2.2049.7 N
+WhatsApp/2.2049.8 N
+WhatsApp/2.2049.9 N
+WhatsApp/2.21.1.1 A
+WhatsApp/2.21.1.10 A
+WhatsApp/2.21.1.13 A
+WhatsApp/2.21.1.2 A
+WhatsApp/2.21.1.3 A
+WhatsApp/2.21.1.4 A
+WhatsApp/2.21.1.5 A
+WhatsApp/2.21.1.8 A
+WhatsApp/2.21.10.25 i
+WhatsApp/2.21.11.3 i
+WhatsApp/2.21.2.1 A
+WhatsApp/2.21.2.10 A
+WhatsApp/2.21.2.2 A
+WhatsApp/2.21.2.3 A
+WhatsApp/2.21.2.4 A
+WhatsApp/2.21.2.5 A
+WhatsApp/2.21.2.6 A
+WhatsApp/2.21.2.9 A
+WhatsApp/2.2100.4 N
+WhatsApp/2.2100.5 N
+WhatsApp/2.2100.7 N
 WhereGoes? Redirect Tracer/1.0
 Who.is Bot
 Whoismindbot/1.0 (+http://www.whoismind.com/bot.html)
@@ -6378,6 +6766,7 @@ Willow Internet Crawler by Twotrees V2.1
 WillyBot/1.1 (http://www.willyfogg.com/info/willybot)
 WinHTTP/1.1
 WinHttp-Autoproxy-Service/5.1
+WinHttpClient
 WinPodder (http://winpodder.com)
 WinWebBot/1.0; (Balaena Ltd, UK); http://www.balaena.com/winwebbot.html; winwebbot@balaena.com;)
 Windows-RSS-Platform/2.0
@@ -6403,17 +6792,23 @@ WordPress.com; http://121private.home.blog
 WordPress.com; http://allfileonline.com
 WordPress.com; http://ballisticbong.me
 WordPress.com; http://blog.mallid.com
+WordPress.com; http://cybersecfaith.com
 WordPress.com; http://easyportugal.pt
 WordPress.com; http://financialreports.blogrance.com
 WordPress.com; http://goldbarreporter.org
 WordPress.com; http://indianews.world
 WordPress.com; http://iniciarbr.net
+WordPress.com; http://innovagility.com
 WordPress.com; http://lescorpsdansants.com
 WordPress.com; http://linuxkurssilla.home.blog
+WordPress.com; http://nl-inloggen.net
 WordPress.com; http://pauloscalfoni.com
+WordPress.com; http://powcoder.com
+WordPress.com; http://seconnexion.com
 WordPress.com; http://softwareproof.com
 WordPress.com; http://softwarevan.com
 WordPress.com; http://takery.s601.xrea.com/wp1
+WordPress.com; http://thinkdfir.com
 WordPress.com; http://tips-box.com
 WordPress.com; http://updateandupgrade.news.blog
 WordPress.com; http://zainsblog.home.blog
@@ -6421,11 +6816,16 @@ WordPress.com; https://abtechsmart.wordpress.com
 WordPress.com; https://agloeco.wordpress.com
 WordPress.com; https://alinesproject.wordpress.com
 WordPress.com; https://allfileonline.com
+WordPress.com; https://andresblancop2.wordpress.com
+WordPress.com; https://babyalists.com
 WordPress.com; https://baxteriioe.wordpress.com; verifying pingback from 192.3.20.137
+WordPress.com; https://blog.logrocket.com
 WordPress.com; https://botd.wordpress.com
 WordPress.com; https://cincocantos.com.br
+WordPress.com; https://cybersecfaith.com
 WordPress.com; https://developercookie.wordpress.com
 WordPress.com; https://diogoegisele.wordpress.com
+WordPress.com; https://expabroad.blog
 WordPress.com; https://eyespecialists.wordpress.com; verifying pingback from 46.24.49.139
 WordPress.com; https://freedownloadcodes.wordpress.com
 WordPress.com; https://futurussatoshi.com
@@ -6442,9 +6842,14 @@ WordPress.com; https://mkcons.wordpress.com
 WordPress.com; https://myfone.blog
 WordPress.com; https://newsroomonlinow.wordpress.com
 WordPress.com; https://niekgnad.wordpress.com
+WordPress.com; https://nl-inloggen.net
 WordPress.com; https://omiaudoleao.wordpress.com
 WordPress.com; https://onlinehindinewssite.wordpress.com
+WordPress.com; https://powcoder.com
 WordPress.com; https://public-api.wordpress.com
+WordPress.com; https://rinatestpremium1711.wordpress.com
+WordPress.com; https://salvetore.wordpress.com
+WordPress.com; https://seconnexion.com
 WordPress.com; https://seonumber1blog.wordpress.com
 WordPress.com; https://softwareproof.com
 WordPress.com; https://softwarevan.com
@@ -6460,6 +6865,7 @@ WordPress/3.1.4; http://www.asakita.jp/rika
 WordPress/3.2.1; http://idbusiness.unblog.fr
 WordPress/3.3.1; http://news.flyer.ch/wp
 WordPress/3.3.1; http://thesportzonestore.net/chamber
+WordPress/3.3.1; http://www.1.zt.ua/vybory2012
 WordPress/3.4.2; http://blog.infowebmaster.fr
 WordPress/3.5.1; http://blogs.creighton.edu/tma08925
 WordPress/3.5.1; http://www.kampfinfo.de/wordpress
@@ -6468,6 +6874,7 @@ WordPress/3.5.1; http://www.toutparisenvideo.com
 WordPress/3.5; http://www.architectic.fr
 WordPress/3.6.1; http://charithemmadi.com
 WordPress/3.6; http://allkinating.com
+WordPress/3.7.35; http://poisti.me; verifying pingback from 2.58.13.9
 WordPress/3.7.5; http://atunvicta.unblog.fr
 WordPress/3.7.5; http://boecolbugo.unblog.fr
 WordPress/3.7.5; http://cioderpacon.unblog.fr
@@ -6530,9 +6937,12 @@ WordPress/4.4.15; http://thejubril.com
 WordPress/4.4.15; http://www.tramptalk.com
 WordPress/4.4.15; https://www.ekisler.net; verifying pingback from 183.82.118.164
 WordPress/4.4.1; http://www.cyanlovesmagenta.com; verifying pingback from 5.39.31.208
+WordPress/4.4.1; http://www.expandingstudentssuccess.org
 WordPress/4.4.23; http://danielstuedeli.ch; verifying pingback from 209.99.165.91
 WordPress/4.4.23; http://qdsyringe.com; verifying pingback from 45.12.178.97
 WordPress/4.4.23; http://www.utair-india.com; verifying pingback from 31.134.142.107
+WordPress/4.4.24; http://fobbly.com/members_portal
+WordPress/4.4.24; http://www.forumviagra.com
 WordPress/4.4.2; http://blogfinn.eu; verifying pingback from 62.210.146.46
 WordPress/4.4.2; http://cheapautoinsuranceinva.com
 WordPress/4.4.2; http://citycollegeinmiami.com
@@ -6600,6 +7010,7 @@ WordPress/4.5.20; http://www.consultoriogiovanifeltre.net; verifying pingback fr
 WordPress/4.5.20; http://www.eurotelsavignano.it; verifying pingback from 116.73.229.91
 WordPress/4.5.22; http://abogadosdefender.cl; verifying pingback from 51.15.231.181
 WordPress/4.5.22; http://selety.ru; verifying pingback from 195.161.41.70
+WordPress/4.5.23; http://opal6.shinraebc.com
 WordPress/4.5.2; http://1.we-careu.xyz
 WordPress/4.5.2; http://www.blueprintme.com; verifying pingback from 104.129.196.170
 WordPress/4.5.3; http://telefondagis.se; verifying pingback from 183.82.118.164
@@ -6616,6 +7027,7 @@ WordPress/4.6.18; http://leparatonnerre.fr; verifying pingback from 101.255.40.1
 WordPress/4.6.19; http://www.arc-rc.org; verifying pingback from 175.141.69.201
 WordPress/4.6.19; http://www.freepcdownload.net; verifying pingback from 107.182.239.163
 WordPress/4.6.19; http://www.techisky.com; verifying pingback from 165.225.196.87
+WordPress/4.6.20; http://www.freepcdownload.net; verifying pingback from 107.182.239.163
 WordPress/4.7.10; http://foto.fsv.cuni.cz; verifying pingback from 69.4.87.137
 WordPress/4.7.10; http://lastnewsintheworld.pro
 WordPress/4.7.10; http://magmacanarias.com; verifying pingback from 114.104.189.119
@@ -6631,6 +7043,8 @@ WordPress/4.7.18; http://refsgard.dk; verifying pingback from 165.225.210.88
 WordPress/4.7.18; http://www.flow-design.it; verifying pingback from 103.55.66.30
 WordPress/4.7.18; https://turenhui.com
 WordPress/4.7.18; https://www.chaletalpaca.com; verifying pingback from 80.255.5.198
+WordPress/4.7.19; https://campingpraat.nl
+WordPress/4.7.19; https://osdaily.ru
 WordPress/4.7.1; https://ipbpassofundo.com.br; verifying pingback from 107.175.97.161
 WordPress/4.7.2; http://systhemes
 WordPress/4.7.2; https://feldherpetologie.de; verifying pingback from 62.210.146.46
@@ -6651,6 +7065,7 @@ WordPress/4.7.9; http://vyfly.co.uk; verifying pingback from 173.216.169.208
 WordPress/4.7.9; http://www.camaraportuguesa-rj.com.br
 WordPress/4.7; http://hodor.e-konomista.pt
 WordPress/4.8.12; http://dacongyun.com
+WordPress/4.8.12; http://noic.devpreview.net
 WordPress/4.8.12; http://victimsupportgreatermanchester.org; verifying pingback from 1.179.201.153
 WordPress/4.8.12; http://www.ligna.fr; verifying pingback from 95.179.144.71
 WordPress/4.8.12; https://chuyouding.com
@@ -6659,6 +7074,7 @@ WordPress/4.8.13; http://ampamiramadrid.es; verifying pingback from 95.179.155.1
 WordPress/4.8.14; http://health-hearts-program.com; verifying pingback from 109.170.64.98
 WordPress/4.8.14; http://krisoff.com; verifying pingback from 173.44.222.117
 WordPress/4.8.14; https://lvriben.com
+WordPress/4.8.15; http://alzheimercentrum.dev.eenvoudmedia.nl
 WordPress/4.8.1; http://blonkadvies.nl; verifying pingback from 107.175.76.176
 WordPress/4.8.1; http://ncreditos.pt
 WordPress/4.8.2; https://www.tourmega.com/blog; verifying pingback from 127.0.0.1
@@ -6686,6 +7102,7 @@ WordPress/4.8.6; http://www.wilhelm-toll.ch; verifying pingback from 104.227.174
 WordPress/4.8.6; https://tigerdeals.org; verifying pingback from 62.210.146.46
 WordPress/4.8; https://www.cultuga.com.br
 WordPress/4.8; https://www.publiturishotelaria.pt
+WordPress/4.9.10; https://blogsacademicos.com
 WordPress/4.9.12;+https://www.nerdwallet.com/blog
 WordPress/4.9.13; http://4563.org
 WordPress/4.9.13; http://delovkusa22.ru; verifying pingback from 94.98.192.97
@@ -6711,10 +7128,23 @@ WordPress/4.9.15; http://best-porn-online.xyz; verifying pingback from 128.199.2
 WordPress/4.9.15; http://cfs.ophen.org; verifying pingback from 178.33.36.92
 WordPress/4.9.15; http://psycon.su
 WordPress/4.9.15; http://www.alrashidi.net
+WordPress/4.9.15; http://www.aztft.co
+WordPress/4.9.15; http://www.boawsz.co
 WordPress/4.9.15; http://www.ddqiiy.co
+WordPress/4.9.15; http://www.fasdxk.co
 WordPress/4.9.15; http://www.newthinktank.com; verifying pingback from 5.62.19.68
 WordPress/4.9.15; http://www.shvmuf.co
 WordPress/4.9.15; https://xiao-ck.com
+WordPress/4.9.16; http://bajaretireddate.com
+WordPress/4.9.16; http://opal2.shinraebc.com
+WordPress/4.9.16; http://spaghetticontest.ir
+WordPress/4.9.16; http://www.bqblhe.co
+WordPress/4.9.16; http://www.studioannalisaspada.it
+WordPress/4.9.16; http://www.uelfxq.co
+WordPress/4.9.16; http://www.vdxtpr.co
+WordPress/4.9.16; http://www.wdqxg.co
+WordPress/4.9.16; https://dlandroid24.com; verifying pingback from 107.175.2.108
+WordPress/4.9.16; https://lalederwaren.de
 WordPress/4.9.1; http://ccsae.org; verifying pingback from 23.250.79.30
 WordPress/4.9.1; http://downloadwitharia.online
 WordPress/4.9.1; http://kenobi/www.aurigaspa.com/wordpress
@@ -6749,6 +7179,7 @@ WordPress/4.9.3; http://interstatecp.com; verifying pingback from 192.210.168.11
 WordPress/4.9.3; http://kaminoshimobeblog.jp/wordofJESUS; verifying pingback from 176.61.140.135
 WordPress/4.9.3; http://mayasharespdf.website
 WordPress/4.9.3; http://peytonsharespdf.pw
+WordPress/4.9.3; http://radio.apascentar.org
 WordPress/4.9.3; http://spezavtotrans.ru
 WordPress/4.9.3; http://studentskicentarcacak.co.rs; verifying pingback from 165.225.112.76
 WordPress/4.9.3; http://themes.zozothemes.com/mist; verifying pingback from 5.175.229.50
@@ -6777,6 +7208,8 @@ WordPress/4.9.4; https://torontoist.com; verifying pingback from 127.0.0.1
 WordPress/4.9.4; https://www.elmundoentubolsillo.es
 WordPress/4.9.4; https://www.eurodicas.com.br
 WordPress/4.9.4; https://www.jetradar.co.th/promotions; verifying pingback from 127.0.0.1
+WordPress/4.9.4; https://www.shopback.ph/blog
+WordPress/4.9.4; https://www.terraeve.com
 WordPress/4.9.5
 WordPress/4.9.5; http://anobrasilportugal.blog.br
 WordPress/4.9.5; http://antidotegreen.org
@@ -6842,6 +7275,7 @@ WordPress/4.9.6; http://villaferia.com
 WordPress/4.9.6; http://www.bancosdeportugal.info
 WordPress/4.9.6; http://www.lookinggoodbeauty.co.uk; verifying pingback from 62.210.146.46
 WordPress/4.9.6; http://www.rjk-attorneys.net; verifying pingback from 42.115.52.97
+WordPress/4.9.6; http://www.songwah.xyz
 WordPress/4.9.6; http://youwatchfilm.cc; verifying pingback from 62.210.146.46
 WordPress/4.9.6; https://barefootmedia.co.uk; verifying pingback from 62.210.146.46
 WordPress/4.9.6; https://bluezoocreative.com; verifying pingback from 62.210.146.46
@@ -6871,6 +7305,7 @@ WordPress/4.9.7; https://projectlisboa.com
 WordPress/4.9.7; https://resgatefinanceiro.com.br
 WordPress/4.9.7; https://www.acoesdaeuronext.com
 WordPress/4.9.7; https://www.atlaslisboa.com
+WordPress/4.9.7; https://www.bengalkart.com
 WordPress/4.9.8; http://blocs.xarxanet.org/corub; verifying pingback from 5.39.31.208
 WordPress/4.9.8; http://bomdia.lu
 WordPress/4.9.8; http://euspr.org
@@ -6895,6 +7330,9 @@ WordPress/4.9; http://www.bcsdportugal.org
 WordPress/4.9; http://www.flotte2.com
 WordPress/5.0-alpha-42684; https://news.gigarefurb.co.uk
 WordPress/5.0.10; http://www.edmpol.com; verifying pingback from 187.92.44.178
+WordPress/5.0.11; https://equalitytriangle.org/home
+WordPress/5.0.3; http://www.lkxpz.com
+WordPress/5.0.3; http://www.qc187.com
 WordPress/5.0.8; http://trending.unaux.com
 WordPress/5.0.8; http://www.garytonkin.com
 WordPress/5.0.8; https://linked-promo.com
@@ -6914,6 +7352,13 @@ WordPress/5.1.6; http://godknowstravel.com; verifying pingback from 80.255.5.198
 WordPress/5.1.6; http://smart-route.ru
 WordPress/5.1.6; http://webmastersedge.net
 WordPress/5.1.6; http://yazilimcity.net
+WordPress/5.1.8; http://forhimm.com
+WordPress/5.1.8; http://gorodgeniev.ru
+WordPress/5.1.8; http://highscreen-support.ru
+WordPress/5.1.8; http://hwoodhospital.co.uk
+WordPress/5.1.8; http://showmenweek.ru
+WordPress/5.1.8; http://tsb-company.ru
+WordPress/5.1.8; https://zionministrieschurch.org; verifying pingback from 185.88.37.34
 WordPress/5.2.2; https://masterskaya-podarkov.ru
 WordPress/5.2.4; https://www.sgdtips.com
 WordPress/5.2.5; http://brooklyngirleatery.com
@@ -6964,6 +7409,15 @@ WordPress/5.2.7; https://mantrainfotech.com/blog; verifying pingback from 172.10
 WordPress/5.2.7; https://soft-info.online
 WordPress/5.2.7; https://waescheservice.eu; verifying pingback from 172.107.32.64
 WordPress/5.2.7; https://www.natic-ocean-dunkerque.com; verifying pingback from 206.41.176.205
+WordPress/5.2.9; http://ajfbf.org
+WordPress/5.2.9; http://forums.edgeofplay.com
+WordPress/5.2.9; https://esperanto.berlin
+WordPress/5.2.9; https://esperanto.berlin/de
+WordPress/5.2.9; https://forums.edgeofplay.com
+WordPress/5.2.9; https://matricematrice.be
+WordPress/5.2.9; https://sam-sebe.su
+WordPress/5.2.9; https://universitylaunch.com
+WordPress/5.2.9; https://www.studentlife.dk
 WordPress/5.3.2; http://118.190.38.122
 WordPress/5.3.2; http://159.69.72.230
 WordPress/5.3.2; http://bdnews.rf.gd
@@ -6973,6 +7427,7 @@ WordPress/5.3.2; http://forum.nef6.com
 WordPress/5.3.2; http://forum.remmont.com
 WordPress/5.3.2; http://gamebeast.xyz
 WordPress/5.3.2; http://harryschenawolf.com
+WordPress/5.3.2; http://hitec.tn
 WordPress/5.3.2; http://ideatalayi.com
 WordPress/5.3.2; http://inetsovet.ru EWWW/521.0
 WordPress/5.3.2; http://intreeotech.altervista.org
@@ -7116,10 +7571,13 @@ WordPress/5.3.4; https://condesaspa.com; verifying pingback from 107.172.52.253
 WordPress/5.3.4; https://costante.ru
 WordPress/5.3.4; https://delendoejezo.nl
 WordPress/5.3.4; https://freshcoupon.org
+WordPress/5.3.4; https://gameforsmart.ru
 WordPress/5.3.4; https://lapki-tapki.ru
 WordPress/5.3.4; https://microclimate.su
+WordPress/5.3.4; https://pc-windows.ru
 WordPress/5.3.4; https://polytech-soft.com
 WordPress/5.3.4; https://rdtk.net
+WordPress/5.3.4; https://remont-ajfon.ru
 WordPress/5.3.4; https://ritual-23.ru; verifying pingback from 45.12.178.199
 WordPress/5.3.4; https://rossum-mijdrecht.nl
 WordPress/5.3.4; https://sep.faperika.unri.ac.id
@@ -7133,8 +7591,14 @@ WordPress/5.3.4; https://www.instanslogin.com
 WordPress/5.3.4; https://www.nearlogin.com
 WordPress/5.3.4; https://www.surprice.ca
 WordPress/5.3.4; https://www.timiann.com; verifying pingback from 192.210.188.97
+WordPress/5.3.6; http://johanhoffmann.dk; verifying pingback from 175.158.36.92
 WordPress/5.3.6; https://i-fix-it.ru
+WordPress/5.3.6; https://it-consult.pro
+WordPress/5.3.6; https://lapki-tapki.ru
+WordPress/5.3.6; https://neue-sexpuppe.de
 WordPress/5.3.6; https://turbocomputer.ru
+WordPress/5.3.6; https://usedcomputers.ru
+WordPress/5.3.6; https://wiki-helpdesk.gasnet.it
 WordPress/5.3; http://b179h696.marlena.xyz
 WordPress/5.3; http://c272h683.arturek.xyz
 WordPress/5.3; https://blog.timeonegroup.com; verifying pingback from 1.255.48.197
@@ -7767,7 +8231,24 @@ WordPress/5.4.2; https://yarnsie.com
 WordPress/5.4.2; https://zahradnikuvrok.eu
 WordPress/5.4.2; https://zukunftsdiplom.eu
 WordPress/5.4.3-alpha-48029; https://www.caminteresse.fr; verifying pingback from 10.2.59.245
+WordPress/5.4.4; http://gzapxt.com
+WordPress/5.4.4; http://localhost/login
+WordPress/5.4.4; http://tvacaradabahia.com.br
+WordPress/5.4.4; http://www.fixbbs.com
+WordPress/5.4.4; https://affiliatezaitaku.tokyo
+WordPress/5.4.4; https://blog.laczik.org
+WordPress/5.4.4; https://businessguarantor.com/tr
+WordPress/5.4.4; https://foreignbanks.ru
 WordPress/5.4.4; https://gawcie.com; verifying pingback from 157.51.186.252
+WordPress/5.4.4; https://gcodes.de
+WordPress/5.4.4; https://gilsongoncalves.com.br
+WordPress/5.4.4; https://hardsk.com
+WordPress/5.4.4; https://it-informa.com
+WordPress/5.4.4; https://piratx.ru
+WordPress/5.4.4; https://urfix.ru
+WordPress/5.4.4; https://www.rerc.org.au
+WordPress/5.4.4; https://www.tech-girlz.com
+WordPress/5.4; http://159.69.72.230
 WordPress/5.4; http://35.192.68.18
 WordPress/5.4; http://abohgamers.tk
 WordPress/5.4; http://blog.rushmorehonda.com; verifying pingback from 128.68.142.112
@@ -7794,6 +8275,7 @@ WordPress/5.4; https://goldpoint.com.ng
 WordPress/5.4; https://goload.ru
 WordPress/5.4; https://holtanswers.info
 WordPress/5.4; https://immanuelnews.com
+WordPress/5.4; https://itpark.com.tm
 WordPress/5.4; https://labuda.blog
 WordPress/5.4; https://levashove.ru
 WordPress/5.4; https://mediabursts.com
@@ -7817,6 +8299,7 @@ WordPress/5.4; https://technoholics.co
 WordPress/5.4; https://techtooltip.com
 WordPress/5.4; https://trabilo.com
 WordPress/5.4; https://warshistory.ru
+WordPress/5.4; https://wpuber.com
 WordPress/5.4; https://www.fjoddes.net
 WordPress/5.4; https://www.followeek.com
 WordPress/5.4; https://www.giatot7.com
@@ -7837,6 +8320,7 @@ WordPress/5.5.1; http://haar.animojimemoji.com
 WordPress/5.5.1; http://intra.mediatechnic.net; verifying pingback from 5.62.19.70
 WordPress/5.5.1; http://momentum1st.com
 WordPress/5.5.1; http://repository.zeile1.local
+WordPress/5.5.1; http://rohanparmar.co.uk
 WordPress/5.5.1; http://softwarevan.com
 WordPress/5.5.1; http://staging.mergerscorp.com
 WordPress/5.5.1; http://staging.mergerscorp.com/de/
@@ -7848,6 +8332,7 @@ WordPress/5.5.1; https://advanxer.com/blog; verifying pingback from 129.237.33.2
 WordPress/5.5.1; https://apisero.com
 WordPress/5.5.1; https://askjavascriptquestions.com
 WordPress/5.5.1; https://asttika.ru
+WordPress/5.5.1; https://axaconsulting.ro
 WordPress/5.5.1; https://bitlab.com.br/bitwiki
 WordPress/5.5.1; https://blogchain.com.ua
 WordPress/5.5.1; https://containerjournal.com
@@ -7870,6 +8355,7 @@ WordPress/5.5.1; https://newguide.online
 WordPress/5.5.1; https://raidersnews.weddingdecorations.club
 WordPress/5.5.1; https://revistawp.com
 WordPress/5.5.1; https://sdelaicomp.ru
+WordPress/5.5.1; https://shannoncrabill.com/blog
 WordPress/5.5.1; https://softwareproof.com
 WordPress/5.5.1; https://techblog.thcb.in
 WordPress/5.5.1; https://wawplus.com
@@ -7893,14 +8379,88 @@ WordPress/5.5.2; https://bitlab.com.br/bitwiki
 WordPress/5.5.2; https://blogchain.com.ua
 WordPress/5.5.2; https://hello-papaye.com
 WordPress/5.5.2; https://nastoysam.ru
+WordPress/5.5.3; http://3.16.239.73
+WordPress/5.5.3; http://35.199.34.74
+WordPress/5.5.3; http://computeraza.ru
+WordPress/5.5.3; http://dalmuseum.ru
+WordPress/5.5.3; http://gamingweb.xyz
+WordPress/5.5.3; http://helpcomputerra.ru
+WordPress/5.5.3; http://iit-computer.ru
+WordPress/5.5.3; http://localhost/ws/wordpress
+WordPress/5.5.3; http://medczdra.ru
+WordPress/5.5.3; http://nastroikato.ru
+WordPress/5.5.3; http://pronastroiku.ru
+WordPress/5.5.3; http://repository.zeile1.local
+WordPress/5.5.3; http://sborka-computer.ru
+WordPress/5.5.3; http://softwarevan.com
+WordPress/5.5.3; http://sonuseo.xyz
+WordPress/5.5.3; http://webcomplete.ru
+WordPress/5.5.3; http://www.iuepr.edu.mx
+WordPress/5.5.3; http://younger.kim
+WordPress/5.5.3; http://zapchasti-h-novosibirsk.ru
+WordPress/5.5.3; http://zapchasti-miass.ru
+WordPress/5.5.3; http://zapchasti-omsk-k-a.ru
+WordPress/5.5.3; http://zapchasti-spb-k-a.ru
+WordPress/5.5.3; http://zapchasti-v-n-spb.ru
+WordPress/5.5.3; http://zapchasti-v-tyumen.ru
+WordPress/5.5.3; http://zapchastidaromvl.ru
+WordPress/5.5.3; https://192.168.1.13/non-beta/aurachain/academy2
+WordPress/5.5.3; https://abcserial.com
+WordPress/5.5.3; https://academy.aurachain.nbeta.ro
+WordPress/5.5.3; https://antiviruse.org
+WordPress/5.5.3; https://aster.cloud
+WordPress/5.5.3; https://azurplus.fr
 WordPress/5.5.3; https://bitlab.com.br/bitwiki
+WordPress/5.5.3; https://blog.rockhouse.dev
 WordPress/5.5.3; https://blogchain.com.ua
+WordPress/5.5.3; https://boroda.io
+WordPress/5.5.3; https://casperlibero.edu.br
+WordPress/5.5.3; https://cryptomerous.com
 WordPress/5.5.3; https://czn-chekhov.ru
+WordPress/5.5.3; https://digitalniarchitekti.cz
+WordPress/5.5.3; https://econlib.ru
+WordPress/5.5.3; https://expertnov.ru
+WordPress/5.5.3; https://fpmp39.ru
+WordPress/5.5.3; https://frazeologi.ru
+WordPress/5.5.3; https://frazeologi.ru EWWW/582.0
+WordPress/5.5.3; https://galaktyczny.pl
+WordPress/5.5.3; https://giemo.es
+WordPress/5.5.3; https://gourmetbasket.com.au
+WordPress/5.5.3; https://help.britecore.com
+WordPress/5.5.3; https://hothup.com
+WordPress/5.5.3; https://imagensfavorito.buzz
 WordPress/5.5.3; https://iniciarbr.net
+WordPress/5.5.3; https://joshuatz.com
+WordPress/5.5.3; https://kb.webcon.pl
+WordPress/5.5.3; https://kodypromocyjne.info
+WordPress/5.5.3; https://kslift.ru
+WordPress/5.5.3; https://latecnologiaatualcance.com
+WordPress/5.5.3; https://longsword.ru
+WordPress/5.5.3; https://loveflora.ru
+WordPress/5.5.3; https://mawdo33.com
+WordPress/5.5.3; https://nastoysam.ru EWWW/582.0
+WordPress/5.5.3; https://nl-inloggen.net
+WordPress/5.5.3; https://partition-magic-ru.ru
 WordPress/5.5.3; https://payameirani.com
+WordPress/5.5.3; https://political.lk
+WordPress/5.5.3; https://pomognastroit.ru
+WordPress/5.5.3; https://practicalprogramming.fr
+WordPress/5.5.3; https://printersupportdesk.us
+WordPress/5.5.3; https://pscs-psg.com
+WordPress/5.5.3; https://puppy.arin.store
+WordPress/5.5.3; https://ranklaptop.com
+WordPress/5.5.3; https://rdpmate.com
+WordPress/5.5.3; https://seconnexion.com
+WordPress/5.5.3; https://seekalgo.net
+WordPress/5.5.3; https://simpleprogrammer.com
 WordPress/5.5.3; https://softwareproof.com
 WordPress/5.5.3; https://softwarevan.com
+WordPress/5.5.3; https://tutostecnologicos.com
+WordPress/5.5.3; https://wawplus.com
+WordPress/5.5.3; https://www.easyprintersupport.com
 WordPress/5.5.3; https://www.gritfeat.com
+WordPress/5.5.3; https://www.idnpos.com
+WordPress/5.5.3; https://www.octylabs.com
 WordPress/5.5; http://paprikaproject.com; verifying pingback from 172.107.32.64
 WordPress/5.5; http://raidersnews.weddingdecorations.club
 WordPress/5.5; http://smup.unpad.ac.id
@@ -7919,6 +8479,72 @@ WordPress/5.5; https://soft-parad.ru
 WordPress/5.5; https://wpbuffs.com
 WordPress/5.5; https://www.aftersixcomputers.com
 WordPress/5.5; https://www.vojtechkral.cz
+WordPress/5.6; http://stocks.ru.com
+WordPress/5.6; http://thegardendos.test
+WordPress/5.6; http://villa-chanterelle.org; verifying pingback from 184.82.32.217
+WordPress/5.6; http://www.peermathhelp.com
+WordPress/5.6; https://192.168.1.13/non-beta/aurachain/academy2
+WordPress/5.6; https://academy.aurachain.nbeta.ro
+WordPress/5.6; https://acorntreeholdingsinc.com; verifying pingback from 88.218.66.140
+WordPress/5.6; https://amm.agency
+WordPress/5.6; https://askjavascriptquestions.com
+WordPress/5.6; https://baliventure.com
+WordPress/5.6; https://bestpillowsleepers.com
+WordPress/5.6; https://blogchain.com.ua
+WordPress/5.6; https://bramjbook.com
+WordPress/5.6; https://cyberiqs.com
+WordPress/5.6; https://dariaseramd.com
+WordPress/5.6; https://de.moyens.net
+WordPress/5.6; https://dgtara.com
+WordPress/5.6; https://es.moyens.net
+WordPress/5.6; https://ez-case.ru
+WordPress/5.6; https://fikopedia.de
+WordPress/5.6; https://fintaxi.ru
+WordPress/5.6; https://fpmp39.ru EWWW/582.0
+WordPress/5.6; https://glamiss.net; verifying pingback from 2.38.152.84
+WordPress/5.6; https://help.britecore.com
+WordPress/5.6; https://iapple-59.ru
+WordPress/5.6; https://iniciarbr.net
+WordPress/5.6; https://it.moyens.net
+WordPress/5.6; https://labuda.blog
+WordPress/5.6; https://light-clay.ru
+WordPress/5.6; https://northerncaliforniahikingtrails.com/blog
+WordPress/5.6; https://novindevelopers.com
+WordPress/5.6; https://onlinetoolweb.com
+WordPress/5.6; https://opros03.ru
+WordPress/5.6; https://payameirani.com
+WordPress/5.6; https://powcoder.com
+WordPress/5.6; https://practicalprogramming.fr
+WordPress/5.6; https://precom-multimedia.com
+WordPress/5.6; https://prostitutkis.ru
+WordPress/5.6; https://pt.moyens.net
+WordPress/5.6; https://ranklaptop.com
+WordPress/5.6; https://rdpmate.com
+WordPress/5.6; https://reviewnxt.com
+WordPress/5.6; https://rucore.net/p
+WordPress/5.6; https://shkolopro.ru
+WordPress/5.6; https://skreened.club
+WordPress/5.6; https://staging35.cyberiqs.com
+WordPress/5.6; https://tirisulayoga.com; verifying pingback from 125.27.251.249
+WordPress/5.6; https://trufem.club
+WordPress/5.6; https://wawplus.com
+WordPress/5.6; https://websitesofficial.com
+WordPress/5.6; https://woww.best
+WordPress/5.6; https://wpbuffs.com
+WordPress/5.6; https://www.arcticspas.ca/en/
+WordPress/5.6; https://www.dailylove.xyz
+WordPress/5.6; https://www.easyprintersupport.com
+WordPress/5.6; https://www.galletameadows.com
+WordPress/5.6; https://www.mikaelbengtsson.com
+WordPress/5.6; https://www.moyens.net
+WordPress/5.6; https://www.nach-welt.com
+WordPress/5.6; https://www.nachedeu.com
+WordPress/5.6; https://www.notiulti.com
+WordPress/5.6; https://www.nouvelles-du-monde.com
+WordPress/5.6; https://www.ontariolimoservices.com
+WordPress/5.6; https://www.softfully.com
+WordPress/5.6; https://www.tecupdate.com
+WordPress/5.6; https://zows.online
 WordPress/; https://en.gravatar.com/connect/
 WordPress/x.x.x.x PHP/4.x.xx
 WordPress/x.x.x.x PHP/4.x.xxMozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.6.1 Safari/534.34
@@ -7939,6 +8565,7 @@ Xenu Link Sleuth 1.2f
 Xenu Link Sleuth 1.2g
 Xenu Link Sleuth 1.2h
 Xenu Link Sleuth 1.2i
+Xenu Link Sleuth 1.3.5
 Xenu Link Sleuth/1.3.7
 Xenu Link Sleuth/1.3.8
 Xenu Link Sleuth/1.3.9 beta
@@ -7960,9 +8587,11 @@ Y!J-BSC/1.0 (http://help.yahoo.co.jp/help/jp/blog-search/)
 Y!J-BSC/1.0 (http://help.yahoo.co.jp/help/jp/search/indexing/indexing-15.html)
 Y!J-BSC/1.0 crawler (http://help.yahoo.co.jp/help/jp/blog-search/)
 Y!J-PSC/1.0 crawler (http://help.yahoo.co.jp/help/jp/search/indexing/indexing-15.html)
+Y/Nutch-1.17
 YOOBI - WebBot 1.0
 YOOBI.de - WebBot 1.0
 YOURLS v1.5 +http://yourls.org/ (running on http://corta.co)
+YOURLS v1.5 +http://yourls.org/ (running on http://divineurl.com)
 YOURLS v1.5 +http://yourls.org/ (running on http://e-a.fr)
 YOURLS v1.5 +http://yourls.org/ (running on http://fhc.io)
 YOURLS v1.5 +http://yourls.org/ (running on http://onj.me)
@@ -8006,6 +8635,7 @@ YOURLS v1.7.2 +http://yourls.org/ (running on https://slimex365.com)
 YOURLS v1.7.3 +http://yourls.org/ (running on https://012.3456789-abcdefghijklmnopqrstuvw.xyz)
 YOURLS v1.7.4 +http://yourls.org/ (running on http://301.nz)
 YOURLS v1.7.4 +http://yourls.org/ (running on https://for308.com)
+YOURLS v1.7.9 +http://yourls.org/ (running on https://xn--twtter-4va.de)
 Yaanb/1.5.001 (compatible; Win64;)
 Yaanb/1.5.001 (compatible; Win64;+http://www.yaanb.com/company/bot.hmtl)
 Yahoo Slurp bot
@@ -8098,6 +8728,7 @@ alexa v0.1.4 (http://www.openwebspider.org/)
 all_web1 (larbin2.6.3@unspecified.mail)
 amibot - http://www.amidalla.de - tech@amidalla.com libwww-perl/5.831
 annotate_google; http://ponderer.org/download/annotate_google.user.js
+anonymous coward/1.0 (a Storm-based crawler; https://github.com/DigitalPebble/storm-crawler; someone@company.com)
 ant.com/Nutch-1.7 (http://ant.com)
 apimon.de/http-apis#redirect
 archive.orgbot
@@ -8122,6 +8753,8 @@ axios/0.19.0
 axios/0.19.1
 axios/0.19.2
 axios/0.20.0
+axios/0.21.0
+axios/0.21.1
 bandscraper ( facebookexternalhit/1.1 )
 baypup/1.1 (Baypup; http://www.baypup.com/; jason@baypup.com)
 baypup/colbert (Baypup; http://sf.baypup.com/webmasters; jason@baypup.com)
@@ -8191,6 +8824,7 @@ crawler4j (http://code.google.com/p/crawler4j/)
 crawler4j (https://github.com/yasserg/crawler4j/)
 crawler4j for XQuery
 crazywebcrawler 0.9.0, http://www.crazywebcrawler.com
+curl Mozilla/5.0
 curl/7.10.6 (i386-redhat-linux-gnu) libcurl/7.10.6 OpenSSL/0.9.7a ipv6 zlib/1.1.4
 curl/7.11.1 (i386-redhat-linux-gnu) libcurl/7.11.1 OpenSSL/0.9.7a ipv6 zlib/1.2.1.2
 curl/7.11.1 (i686-redhat-linux-gnu) libcurl/7.11.1 OpenSSL/0.9.7a ipv6 zlib/1.2.1.2
@@ -8223,6 +8857,7 @@ curl/7.19.2 (i386-pc-win32) libcurl/7.19.2 OpenSSL/0.9.8c zlib/1.2.3
 curl/7.19.2 (i386-pc-win32) libcurl/7.19.2 OpenSSL/0.9.8i zlib/1.2.3 libidn/1.11 libssh2/0.18
 curl/7.19.4 (i686-pc-cygwin) libcurl/7.19.4 OpenSSL/0.9.8k zlib/1.2.3 libidn/1.9 libssh2/1.0
 curl/7.19.4 (universal-apple-darwin10.0) libcurl/7.19.4 OpenSSL/0.9.8k zlib/1.2.3
+curl/7.19.5
 curl/7.19.5 (i486-pc-linux-gnu) libcurl/7.19.5 OpenSSL/0.9.8g zlib/1.2.3.3 libidn/1.15
 curl/7.19.5 (i586-pc-mingw32msvc) libcurl/7.19.5 zlib/1.2.3
 curl/7.19.6 (i386-pc-win32) libcurl/7.19.6 OpenSSL/0.9.8k zlib/1.2.3
@@ -8298,6 +8933,7 @@ curl/7.67.0
 curl/7.68.0
 curl/7.69.0
 curl/7.69.1
+curl/7.69.1 Dalvik/2.1.0
 curl/7.7.2 (powerpc-apple-darwin6.0) libcurl 7.7.2 (OpenSSL 0.9.6b)
 curl/7.7.x (i386--freebsd4.3) libcurl 7.7.x (SSL 0.9.6) (ipv6 enabled)
 curl/7.70.0
@@ -8305,6 +8941,7 @@ curl/7.71.0
 curl/7.71.1
 curl/7.72.0
 curl/7.73.0
+curl/7.74.0
 curl/7.8 (i386-redhat-linux-gnu) libcurl 7.8 (OpenSSL 0.9.6b) (ipv6 enabled)
 curl/7.9.8 (i686-pc-linux-gnu) libcurl 7.9.8 (OpenSSL 0.9.6b) (ipv6 enabled)
 cuwhois/1.0 (+http://www.cuwhois.com/)
@@ -8345,12 +8982,16 @@ envolk[ITS]spider/1.6 ( http://www.envolk.com/envolkspider.html)
 envolk[ITS]spider/1.6 (+http://www.envolk.com/envolkspider.html)
 es_com_viewer (larbin2.6.3@unspecified.mail)
 everyfeed-spider/2.0 (http://www.everyfeed.com)
+facebookexternalhit naverbookmarkcrawler
 facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
 facebookexternalhit/1.0 (+http://www.facebook.com/externalhituatext.php)
 facebookexternalhit/1.1
 facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) Trident/7.0; Sleipnir6/6.4.4; SleipnirSiteUpdates/6.4.4)
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)+Mozilla/5.0 (Android 6.0.1; Xiaomi Redmi 4A) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
 facebookexternalhit/1.1 (+http://www.facebook.com/externalhituatext.php)
 facebookexternalhit/1.1 (compatible; Blueno/1.0; +http://naver.me/scrap)
+facebookexternalhit/1.1(+http://www.facebook.com/externalhit_uatext.php)+Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36
 facebookexternalhit/1.1;between-scrap/1.0
 facebookexternalhit/1.1;kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984
 facebookexternalhit/1.1;line-poker/1.0
@@ -8441,6 +9082,7 @@ grokkit (pdsupport@purediscovery.com)
 grub crawler(http://www.grub.org)
 grub-client-1.5.3; (grub-client-1.5.3; Crawl your own stuff with http://grub.org)
 gschaid bot/1.0 (+http://www.gschaid.de/bot.html)
+gvfs/1.11.4
 gvfs/1.20.3
 gvfs/1.22.2
 gvfs/1.28.2
@@ -8448,6 +9090,7 @@ gvfs/1.34.1
 gvfs/1.36.1
 gvfs/1.38.1
 gvfs/1.44.1
+gvfs/1.46.1
 hackney/1.11.0
 haena-pepper/Nutch-2.2.1
 hawkReader/0.9b (Feed Parser; http://www.hawkreader.com; Allow like Gecko)
@@ -8633,6 +9276,9 @@ libwww-perl/6.46
 libwww-perl/6.47
 libwww-perl/6.48
 libwww-perl/6.49
+libwww-perl/6.50
+libwww-perl/6.51
+libwww-perl/6.52
 linguatools-bot/Nutch-1.6 (searching for translated pages; http://www.linguatools.de/linguatoolsbot.html; peter dot kolb at linguatools dot org)
 link_thumbnailer
 linkapediabot (+http://www.linkapedia.com)
@@ -8650,6 +9296,7 @@ lua-resty-http/0.07 (Lua) ngx_lua/10000
 lua-resty-http/0.10 (Lua) ngx_lua/10000
 lua-resty-http/0.11 (Lua) ngx_lua/10010
 lua-resty-http/0.14 (Lua) ngx_lua/10015
+lua-resty-http/0.14 (Lua) ngx_lua/10019
 luis@cybo.com
 lwp-request/6.03 libwww-perl/6.03
 lwp-request/6.03 libwww-perl/6.05
@@ -8757,6 +9404,7 @@ okhttp/3.12.1
 okhttp/3.12.10
 okhttp/3.12.11
 okhttp/3.12.12
+okhttp/3.12.2
 okhttp/3.12.3
 okhttp/3.12.5
 okhttp/3.12.6
@@ -8764,10 +9412,12 @@ okhttp/3.12.8
 okhttp/3.13.1
 okhttp/3.14.0
 okhttp/3.14.1
+okhttp/3.14.4
 okhttp/3.14.7
 okhttp/3.14.9
 okhttp/3.2.0
 okhttp/3.3.0
+okhttp/3.3.1
 okhttp/3.4.1
 okhttp/3.5.0
 okhttp/3.6.0
@@ -8825,6 +9475,7 @@ python-httpx/0.12.0
 python-httpx/0.12.1
 python-httpx/0.13.3
 python-httpx/0.14.3
+python-httpx/0.16.0
 python-requests
 python-requests/1.1.0 CPython/2.7.6 Linux/3.13.0-58-generic
 python-requests/1.2.0 CPython/2.7.3 Linux/3.2.0-29-virtual
@@ -8835,6 +9486,7 @@ python-requests/1.2.3 CPython/2.7.16 Linux/4.14.165-102.185.amzn1.x86_64
 python-requests/1.2.3 CPython/2.7.2 Windows/post2008Server
 python-requests/2.1.0 CPython/2.7.3 Linux/3.2.0-4-amd64
 python-requests/2.1.0 CPython/2.7.3 Linux/3.2.0-5-amd64
+python-requests/2.1.0 CPython/2.7.3 Linux/3.2.0-6-amd64
 python-requests/2.10.0
 python-requests/2.11.0
 python-requests/2.11.1
@@ -8870,11 +9522,15 @@ python-requests/2.22.0
 python-requests/2.23.0
 python-requests/2.23.0 (MechanicalSoup/0.12.0)
 python-requests/2.24.0
+python-requests/2.25.0
+python-requests/2.25.1
 python-requests/2.3.0 CPython/2.7.12 Linux/ AppEngine-Google; (+http://code.google.com/appengine; appid: s~ircrestapi)
+python-requests/2.3.0 CPython/2.7.18 Windows/10
 python-requests/2.3.0 CPython/2.7.6 Linux/3.13.0-116-generic
 python-requests/2.3.0 CPython/2.7.6 Linux/3.13.0-57-generic
 python-requests/2.4.3 CPython/2.7.9 Linux/3.18.31-perf-g91a1159
 python-requests/2.4.3 CPython/2.7.9 Linux/4.9.93-41.60.amzn1.x86_64
+python-requests/2.4.3 CPython/3.4.0
 python-requests/2.4.3 CPython/3.4.2 Linux/4.4.6-1-pve
 python-requests/2.4.3 CPython/3.7.2 Linux/4.9.35-v7+
 python-requests/2.5.0 CPython/2.7.9 Linux/3.14.20-20.44.amzn1.x86_64
@@ -8895,6 +9551,7 @@ python-requests/2.6.0 CPython/2.6.6 Linux/2.6.32-754.29.2.el6.x86_64
 python-requests/2.6.0 CPython/2.6.6 Linux/2.6.32-754.30.2.el6.x86_64
 python-requests/2.6.0 CPython/2.6.6 Linux/2.6.32-754.31.1.el6.x86_64
 python-requests/2.6.0 CPython/2.6.6 Linux/2.6.32-754.33.1.el6.x86_64
+python-requests/2.6.0 CPython/2.6.6 Linux/2.6.32-754.35.1.el6.x86_64
 python-requests/2.6.0 CPython/2.6.6 Linux/2.6.32-754.el6.x86_64
 python-requests/2.6.0 CPython/2.7.12 Linux/4.4.0-119-generic
 python-requests/2.6.0 CPython/2.7.14 Linux/4.14.47-64.38.amzn2.x86_64
@@ -8912,6 +9569,7 @@ python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1127.18.2.el7.x86_64
 python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1127.19.1.el7.x86_64
 python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1127.8.2.el7.x86_64
 python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1127.el7.x86_64
+python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.6.1.el7.x86_64
 python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-229.14.1.el7.x86_64
 python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-327.22.2.el7.x86_64
 python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-327.3.1.el7.x86_64
@@ -8932,11 +9590,14 @@ python-requests/2.7.0 CPython/2.7.12 Linux/4.4.0-119-generic
 python-requests/2.7.0 CPython/2.7.14 Windows/2008ServerR2
 python-requests/2.7.0 CPython/2.7.14 Windows/2012ServerR2
 python-requests/2.7.0 CPython/2.7.15 Linux/4.16.0-kali2-amd64
+python-requests/2.7.0 CPython/2.7.17 Windows/10
+python-requests/2.7.0 CPython/2.7.17 Windows/2012ServerR2
 python-requests/2.7.0 CPython/2.7.18 Windows/10
 python-requests/2.7.0 CPython/2.7.3 Linux/2.6.18-308.el5
 python-requests/2.7.0 CPython/2.7.3 Linux/3.13.0-117-generic
 python-requests/2.7.0 CPython/2.7.6 Linux/3.13.0-85-generic
 python-requests/2.7.0 CPython/2.7.6 Linux/3.19.0-80-generic
+python-requests/2.7.0 CPython/3.7.6 Windows/10
 python-requests/2.8.0
 python-requests/2.8.1
 python-requests/2.9.0
@@ -8944,6 +9605,7 @@ python-requests/2.9.1
 python-requests/2.9.2
 python-requests\x5C/2.2.1 CPython\x5C/2.7.6 Linux\x5C/4.9.80-c9
 python-urllib
+python-urllib3/1.26.2
 queuedriver/1.0 (eng@linqia.com)
 quickobot/quickobot-1 (Quicko Labs; http://quicko.co; robot at quicko dot co)
 radian6_default_(www.radian6.com/crawler)
@@ -9002,6 +9664,7 @@ scrapy-redis (+https://github.com/rolando/scrapy-redis)
 scrapyproject (+http://www.profound.net)
 scrutiny/6
 search.KumKie.com
+securityJavaScript.com Bot
 seebot/1.0.0 (http://www.seegnify.com/bot)
 seebot/2.0 (+http://www.seegnify.com/bot)
 seegnifybot/1.0.0 (http://www.seegnify.com/bot)
@@ -9082,12 +9745,14 @@ truwoGPS/1.0 (GNU/Linux; U; i686; en-US; +http://www.lan4lano.net/browser.html )
 twibble.io
 uckDuckBot/1.0; (+http://duckduckgo.com/duckduckbot.html)
 uclassify.com/1.0
+uipbot/1.0 (uipbot
 uipbot/1.0 (uipbot@semasio.net)
 uipcrawler/1.0 (uipcrawler@semasio.net)
 ultimate_sitemap_parser/0.5
 unfurlist (https://github.com/Doist/unfurlist)
 unirest-java/1.3.11
 unirest-java/3.0.00
+unirest-java/3.1.00
 updated/0.1-alpha (updated crawler; http://www.updated.com; crawler@updated.com)
 updated/0.1-beta (updated; http://www.updated.com; updated@updated.com)
 updown.io daemon 2.2
@@ -9147,6 +9812,7 @@ yacybot (-global; amd64 FreeBSD 9.2-RELEASE-p10; java 1.7.0_65; Europe/en) http:
 yacybot (-global; amd64 Linux 2.6.32-042stab111.11; java 1.7.0_79; Europe/en) http://yacy.net/bot.html
 yacybot (-global; amd64 Linux 2.6.32-042stab116.1; java 1.7.0_79; Europe/en) http://yacy.net/bot.html
 yacybot (-global; amd64 Linux 3.10.0-1127.19.1.el7.x86_64; java 1.8.0_262; America/en) http://yacy.net/bot.html
+yacybot (-global; amd64 Linux 3.10.0-1160.11.1.el7.x86_64; java 1.8.0_275; Etc/cs) http://yacy.net/bot.html
 yacybot (-global; amd64 Linux 3.10.0-229.4.2.el7.x86_64; java 1.7.0_79; Europe/en) http://yacy.net/bot.html
 yacybot (-global; amd64 Linux 3.10.0-229.4.2.el7.x86_64; java 1.8.0_45; Europe/en) http://yacy.net/bot.html
 yacybot (-global; amd64 Linux 3.13.0-61-generic; java 1.7.0_79; Europe/en) http://yacy.net/bot.html
@@ -9219,7 +9885,9 @@ yacybot (/global; amd64 Linux 4.1.19-gentoo; java 1.7.0_95; Europe/pl) http://ya
 yacybot (/global; amd64 Linux 4.14.128-rancher; java 1.8.0_242; Etc/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 4.15.0-88-generic; java 1.8.0_242; Etc/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 4.15.0-96-generic; java 1.8.0_242; America/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 4.19.0-11-amd64; java 1.8.0_212; GMT/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 4.19.0-12-amd64; java 11.0.9; Europe/de) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 4.19.0-13-amd64; java 1.8.0_242; Etc/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 4.2.0-22-generic; java 1.7.0_91; Europe/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 4.2.0-27-generic; java 1.7.0_95; Europe/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 4.2.0-27-generic; java 1.8.0_66-internal; America/en) http://yacy.net/bot.html
@@ -9235,9 +9903,15 @@ yacybot (/global; amd64 Linux 4.7.6-200.fc24.x86_64; java 1.8.0_102; Etc/en) htt
 yacybot (/global; amd64 Linux 4.9.0-12-amd64; java 1.8.0_232; Europe/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 4.9.0-12-amd64; java 1.8.0_242; Europe/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 4.9.0-12-amd64; java 1.8.0_252; Europe/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 5.3.0-64-generic; java 1.8.0_252; Etc/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 5.3.18-lp152.57-preempt; java 11.0.9; Europe/de) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 5.4.0-40-generic; java 1.8.0_252; Etc/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 5.4.0-40-generic; java 11.0.8; Etc/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 5.4.0-42-generic; java 1.8.0_242; Etc/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 5.4.0-52-generic; java 1.8.0_272; Australia/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 5.4.0-58-generic; java 1.8.0_242; Etc/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 5.4.0-59-generic; java 1.8.0_275; Etc/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 5.4.0-60-generic; java 1.8.0_275; Australia/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 5.4.13-arch1-1; java 1.8.0_242; America/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 5.4.50-gentoo; java 1.8.0_252; Europe/pl) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 5.4.60-0-lts; java 9.0.4; Japan/en) http://yacy.net/bot.html
@@ -9245,10 +9919,14 @@ yacybot (/global; amd64 Linux 5.4.64-0-lts; java 9.0.4; Japan/en) http://yacy.ne
 yacybot (/global; amd64 Linux 5.6.0; java 1.8.0_201; America/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 5.7.0; java 1.8.0_201; America/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Linux 5.8.0-rc4; java 1.8.0_201; America/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 5.9.0-3-amd64; java 15.0.1; Europe/es) http://yacy.net/bot.html
+yacybot (/global; amd64 Linux 5.9.0-5-amd64; java 15.0.1; Europe/es) http://yacy.net/bot.html
 yacybot (/global; amd64 Windows 10 10.0; java 1.8.0_151; Europe/de) http://yacy.net/bot.html
 yacybot (/global; amd64 Windows 10 10.0; java 1.8.0_202; America/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Windows 10 10.0; java 1.8.0_241; Europe/fr) http://yacy.net/bot.html
+yacybot (/global; amd64 Windows 10 10.0; java 1.8.0_261; Asia/ru) http://yacy.net/bot.html
 yacybot (/global; amd64 Windows 10 10.0; java 1.8.0_261; Europe/en) http://yacy.net/bot.html
+yacybot (/global; amd64 Windows 10 10.0; java 1.8.0_271; Asia/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Windows 10 10.0; java 14.0.1; Europe/en) http://yacy.net/bot.html
 yacybot (/global; amd64 Windows 7 6.1; java 1.7.0_55; Asia/zh) http://yacy.net/bot.html
 yacybot (/global; amd64 Windows 7 6.1; java 1.7.0_55; Europe/de) http://yacy.net/bot.html
@@ -9449,6 +10127,7 @@ yacybot (x86 Windows XP 5.1; java 1.6.0_11; Europe/de) http://yacy.net/bot.html
 yacybot (x86 Windows XP 5.1; java 1.6.0_12; Europe/de) http://yacy.net/bot.html
 yacybot (x86 Windows XP 5.1; java 1.6.0_18; Europe/de) http://yacy.net/bot.html
 yacybot (x86 Windows XP 5.1; java 1.6.0_21; Europe/de) http://yacy.net/bot.html
+yahoomailproxy
 yomins.com/0.3
 yoobot 8.99.0000
 yoogliFetchAgent/0.1
