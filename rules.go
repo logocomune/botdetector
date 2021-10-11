@@ -1,5 +1,5 @@
-// Generated at: 2021-02-22T18:52:09+01:00
-// Rules: 1362
+// Generated at: 2021-09-28T16:16:40+02:00
+// Rules: 1368
 
 package botdetector
 
@@ -31,7 +31,9 @@ var rules = []string{
 	"^bkctwitterunshortener",
 	"^blackfire php player/",
 	"^bluefish ",
+	"^bumble bee/",
 	"^calypso v/",
+	"^cispa web analyser",
 	"^cocoal.icio.us/",
 	"^comodo dcv",
 	"^corax",
@@ -41,6 +43,7 @@ var rules = []string{
 	"^dhsh",
 	"^facebookexternalhit/",
 	"^fdm ",
+	"^florienzh/",
 	"^friendica",
 	"^git/",
 	"^goose/",
@@ -74,6 +77,7 @@ var rules = []string{
 	"^stripe/",
 	"^swurl ",
 	"^syndirella",
+	"^tbi-",
 	"^vse/",
 	"^web downloader/",
 	"^winhttp-autoproxy-service/",
@@ -857,6 +861,7 @@ var rules = []string{
 	"pagepeeker",
 	"pagescorer",
 	"pagespeed/",
+	"pagething http://pagething.com);",
 	"panopta",
 	"panscient",
 	"papa foto",
@@ -1319,6 +1324,7 @@ var rules = []string{
 	"wtrace",
 	"www-collector-e",
 	"www-mechanize",
+	"www.hardenize.com)$",
 	"www.monitor.us",
 	"www::document",
 	"www::mechanize",

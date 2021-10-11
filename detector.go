@@ -1,7 +1,7 @@
 package botdetector
 
 import (
-	"log"
+	"appliedgo.net/what"
 	"strings"
 )
 
@@ -20,7 +20,7 @@ type expressionInfo struct {
 
 type BotDetector struct {
 	expression map[string]expressionInfo
-	debugMode bool
+	debugMode  bool
 }
 
 func New() *BotDetector {
@@ -89,33 +89,28 @@ func (b *BotDetector) IsBot(ua string) bool {
 		switch exp.expressionType {
 		case strict:
 			if uaNormalized == exp.detector {
-				if b.debugMode{
-					log.Print(exp.detector," ===  ",uaNormalized)
-				}
+				what.If(b.debugMode, "%s === %s", exp.detector, uaNormalized)
 
 				return true
 			}
 		case startWith:
 			if strings.HasPrefix(uaNormalized, exp.detector) {
-				if b.debugMode{
-					log.Print(exp.detector," .== ",uaNormalized)
-				}
+				what.If(b.debugMode, "%s .== %s", exp.detector, uaNormalized)
+
 
 				return true
 			}
 		case endWith:
 			if strings.HasSuffix(uaNormalized, exp.detector) {
-				if b.debugMode{
-					log.Print(exp.detector," ==. ",uaNormalized)
-				}
+				what.If(b.debugMode, "%s ==. %s", exp.detector, uaNormalized)
+
 
 				return true
 			}
 		case contains:
 			if strings.Contains(uaNormalized, exp.detector) {
-				if b.debugMode{
-					log.Print(exp.detector," =.= ",uaNormalized)
-				}
+				what.If(b.debugMode, "%s =.= %s", exp.detector, uaNormalized)
+
 
 				return true
 			}
