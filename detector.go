@@ -97,20 +97,17 @@ func (b *BotDetector) IsBot(ua string) bool {
 			if strings.HasPrefix(uaNormalized, exp.detector) {
 				what.If(b.debugMode, "%s .== %s", exp.detector, uaNormalized)
 
-
 				return true
 			}
 		case endWith:
 			if strings.HasSuffix(uaNormalized, exp.detector) {
 				what.If(b.debugMode, "%s ==. %s", exp.detector, uaNormalized)
 
-
 				return true
 			}
 		case contains:
 			if strings.Contains(uaNormalized, exp.detector) {
 				what.If(b.debugMode, "%s =.= %s", exp.detector, uaNormalized)
-
 
 				return true
 			}

@@ -1,5 +1,5 @@
 # BotDetector
-[![Build Status](https://travis-ci.org/logocomune/botdetector.svg?branch=master)](https://travis-ci.org/logocomune/botdetector)
+[![Build Status](https://app.travis-ci.com/logocomune/botdetector.svg?branch=master)](https://app.travis-ci.com/logocomune/botdetector)
 [![Go Report Card](https://goreportcard.com/badge/github.com/logocomune/botdetector)](https://goreportcard.com/report/github.com/logocomune/botdetector)
 [![codecov](https://codecov.io/gh/logocomune/botdetector/branch/master/graph/badge.svg)](https://codecov.io/gh/logocomune/botdetector)
 
