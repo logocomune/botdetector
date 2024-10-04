@@ -1,8 +1,8 @@
 language: go
 
 go:
-  - 1.13.x
-  - 1.14.x
+  - 1.21.x
+  - 1.22.x
 
 script:
   - go test -tags what -race -coverprofile=coverage.txt -covermode=atomic ./...

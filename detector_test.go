@@ -150,7 +150,7 @@ func TestUABotDetector_IsBotStrict(t *testing.T) {
 		"^Amazon Simple Notification Service Agent$",
 	}
 
-	d := newDetector(rules)
+	d := NewWithRules(rules)
 	assert.True(t, d.IsBot("b0t"))
 	assert.True(t, d.IsBot("Amazon Simple Notification Service Agent"))
 	assert.False(t, d.IsBot("It's b0t"))
@@ -161,7 +161,7 @@ func TestUABotDetector_IsBotStartWith(t *testing.T) {
 		"^Java/1.6.0_03",
 	}
 
-	d := newDetector(rules)
+	d := NewWithRules(rules)
 
 	assert.True(t, d.IsBot("Java/1.6.0_03"))
 	assert.False(t, d.IsBot("It's Java/1.6.0_03"))
@@ -172,13 +172,14 @@ func TestUABotDetector_IsBotContains(t *testing.T) {
 		"AHC/",
 	}
 
-	u := newDetector(rules)
+	u := NewWithRules(rules)
 	assert.True(t, u.IsBot("AHC/1.0"))
 	assert.True(t, u.IsBot("It's an AHC/1.0"))
 }
 
 func TestUA(t *testing.T) {
-	u := New()
+	u, err := New()
+	assert.Nil(t, err)
 
 	useragents := append(google, bing...)
 	useragents = append(useragents, baidu...)
@@ -196,7 +197,8 @@ func TestUA(t *testing.T) {
 	}
 }
 func TestBrowsers(t *testing.T) {
-	u := New()
+	u, err := New()
+	assert.Nil(t, err)
 
 	for _, c := range browsers {
 		isC := u.IsBot(c)
@@ -209,8 +211,8 @@ func TestBrowsers(t *testing.T) {
 }
 
 func TestBrowsersUA(t *testing.T) {
-	u := New()
-	u.debugMode = true
+	u, err := New()
+	assert.Nil(t, err)
 
 	file, err := os.Open(browserUaList)
 
@@ -236,7 +238,8 @@ func TestBrowsersUA(t *testing.T) {
 }
 
 func TestSpidersUA(t *testing.T) {
-	u := New()
+	u, err := New()
+	assert.Nil(t, err)
 
 	file, err := os.Open(spidersUaList)
 	if err != nil {
@@ -259,4 +262,49 @@ func TestSpidersUA(t *testing.T) {
 	if err := scanner.Err(); err != nil {
 		t.Fatal(err)
 	}
+}
+
+func TestNewWithoutOptions(t *testing.T) {
+	detector, err := New()
+	assert.Nil(t, err)
+	assert.NotNil(t, detector)
+}
+
+func TestNewWithRuleOptions(t *testing.T) {
+
+	detector, err := New()
+	assert.Nil(t, err)
+	assert.NotNil(t, detector)
+	assert.False(t, detector.IsBot("detect me"))
+	r := []string{
+		"detect me",
+	}
+	detector, err = New(WithRules(r))
+	assert.False(t, detector.IsBot("bot"))
+	assert.True(t, detector.IsBot("detect me"))
+
+}
+
+func TestNewWithNoCacheOptions(t *testing.T) {
+	r := []string{
+		"bot",
+	}
+	detector, err := New(WithRules(r))
+	assert.Nil(t, err)
+	assert.NotNil(t, detector)
+	assert.True(t, detector.IsBot("bot"))
+	detector.importRules([]string{"bot2"})
+	assert.False(t, detector.IsBot("bot"))
+}
+
+func TestNewWithCacheOptions(t *testing.T) {
+	r := []string{
+		"bot",
+	}
+	detector, err := New(WithRules(r), WithCache(1))
+	assert.Nil(t, err)
+	assert.NotNil(t, detector)
+	assert.True(t, detector.IsBot("bot"))
+	detector.importRules([]string{"bot2"})
+	assert.True(t, detector.IsBot("bot"))
 }

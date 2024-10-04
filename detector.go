@@ -1,7 +1,7 @@
 package botdetector
 
 import (
-	"appliedgo.net/what"
+	lru "github.com/hashicorp/golang-lru/v2"
 	"strings"
 )
 
@@ -19,16 +19,40 @@ type expressionInfo struct {
 }
 
 type BotDetector struct {
-	expression map[string]expressionInfo
-	debugMode  bool
+	expressions map[string]expressionInfo
+	cache       *lru.Cache[string, bool]
 }
 
-func New() *BotDetector {
-	return newDetector(rules)
+// New creates a new instance of BotDetector using predefined rules.
+func New(opt ...Option) (*BotDetector, error) {
+	b := &BotDetector{}
+	b.importRules(rules)
+
+	var err error
+	for i := range opt {
+		b, err = opt[i](b)
+		if err != nil {
+			return nil, err
+		}
+	}
+
+	return b, nil
 }
 
-func newDetector(rules []string) *BotDetector {
-	uBot := BotDetector{expression: make(map[string]expressionInfo)}
+func (b *BotDetector) importRules(r []string) {
+	if r == nil || len(r) == 0 {
+		b.expressions = make(map[string]expressionInfo)
+		return
+	}
+	b.expressions = make(map[string]expressionInfo, len(r))
+	for _, s := range r {
+		b.addExpression(s)
+	}
+}
+
+// NewWithRules initializes a new instance of BotDetector with provided rules.
+func NewWithRules(rules []string) *BotDetector {
+	uBot := BotDetector{expressions: make(map[string]expressionInfo)}
 
 	for _, s := range rules {
 		uBot.addExpression(s)
@@ -38,83 +62,67 @@ func newDetector(rules []string) *BotDetector {
 }
 
 func (b *BotDetector) addExpression(original string) {
-	e := expressionInfo{
-		source: original,
+	lowered := strings.ToLower(original)
+	isStrict := strings.HasPrefix(lowered, "^") && strings.HasSuffix(lowered, "$")
+	isStartWith := strings.HasPrefix(lowered, "^")
+	isEndWith := strings.HasSuffix(lowered, "$")
+
+	switch {
+	case isStrict:
+		b.addExpressionInfo(original, strict, lowered[1:len(lowered)-1])
+	case isStartWith:
+		b.addExpressionInfo(original, startWith, lowered[1:])
+	case isEndWith:
+		b.addExpressionInfo(original, endWith, lowered[:len(lowered)-1])
+	default:
+		b.addExpressionInfo(original, contains, lowered)
 	}
+}
 
-	s := strings.ToLower(original)
-	if strings.HasPrefix(s, "^") && strings.HasSuffix(s, "$") {
-		b.expression[original] = expressionInfo{
-			source:         original,
-			expressionType: strict,
-			detector:       s[1 : len(s)-1],
-		}
-
-		return
-	}
-
-	if strings.HasPrefix(s, "^") {
-		b.expression[original] = expressionInfo{
-			source:         original,
-			expressionType: startWith,
-			detector:       s[1:],
-		}
-
-		return
-	}
-
-	if strings.HasSuffix(s, "$") {
-		b.expression[original] = expressionInfo{
-			source:         original,
-			expressionType: endWith,
-			detector:       s[:len(s)-1],
-		}
-
-		return
-	}
-
-	e.expressionType = contains
-	b.expression[original] = expressionInfo{
-		source:         original,
-		expressionType: contains,
-		detector:       s,
+func (b *BotDetector) addExpressionInfo(source string, exprType int, detector string) {
+	b.expressions[source] = expressionInfo{
+		source:         source,
+		expressionType: exprType,
+		detector:       detector,
 	}
 }
 
 // IsBot tests whether the useragent is a bot, crawler or a spider.
 func (b *BotDetector) IsBot(ua string) bool {
 	uaNormalized := normalize(ua)
-
-	for _, exp := range b.expression {
+	if b.cache != nil {
+		if ret, ok := b.cache.Get(uaNormalized); ok {
+			return ret
+		}
+	}
+	ret := false
+	for _, exp := range b.expressions {
 		switch exp.expressionType {
 		case strict:
 			if uaNormalized == exp.detector {
-				what.If(b.debugMode, "%s === %s", exp.detector, uaNormalized)
-
-				return true
+				ret = true
 			}
 		case startWith:
 			if strings.HasPrefix(uaNormalized, exp.detector) {
-				what.If(b.debugMode, "%s .== %s", exp.detector, uaNormalized)
-
-				return true
+				ret = true
 			}
 		case endWith:
 			if strings.HasSuffix(uaNormalized, exp.detector) {
-				what.If(b.debugMode, "%s ==. %s", exp.detector, uaNormalized)
 
-				return true
+				ret = true
 			}
 		case contains:
 			if strings.Contains(uaNormalized, exp.detector) {
-				what.If(b.debugMode, "%s =.= %s", exp.detector, uaNormalized)
 
-				return true
+				ret = true
 			}
 		}
 	}
+	if b.cache != nil {
+		b.cache.Add(uaNormalized, ret)
+	}
 
-	return false
+	return ret
 }
 
 func normalize(userAgent string) string {

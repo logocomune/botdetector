@@ -1,15 +1,14 @@
-module github.com/logocomune/botdetector
+module github.com/logocomune/botdetector/v2
 
-go 1.17
+go 1.22
 
 require (
-	appliedgo.net/what v0.1.5
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/stretchr/testify v1.5.1
-
+	github.com/hashicorp/golang-lru/v2 v2.0.7
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )

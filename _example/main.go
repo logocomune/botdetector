@@ -4,16 +4,27 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/logocomune/botdetector"
+	"github.com/logocomune/botdetector/v2"
 )
 
-var detector = botdetector.New()
+var detector *botdetector.BotDetector
+
+func init() {
+	var err error
+	detector, err = botdetector.New()
+	if err != nil {
+		panic(err)
+	}
+}
 
 func main() {
 
 	http.HandleFunc("/", userAgentHandler)
 
-	http.ListenAndServe(":8080", nil)
+	err := http.ListenAndServe(":8080", nil)
+	if err != nil {
+		panic(err)
+	}
 }
 
 func userAgentHandler(w http.ResponseWriter, r *http.Request) {
