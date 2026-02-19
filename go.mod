@@ -1,11 +1,11 @@
 module github.com/logocomune/botdetector/v2
 
-go 1.22
+go 1.25.6
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.11.1
 )
 
 require (

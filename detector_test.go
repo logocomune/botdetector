@@ -308,3 +308,148 @@ func TestNewWithCacheOptions(t *testing.T) {
 	detector.importRules([]string{"bot2"})
 	assert.True(t, detector.IsBot("bot"))
 }
+
+// TestWithCacheInvalidSize verifies that WithCache returns an error for non-positive sizes.
+func TestWithCacheInvalidSize(t *testing.T) {
+	_, err := New(WithCache(0))
+	assert.NotNil(t, err)
+
+	_, err = New(WithCache(-1))
+	assert.NotNil(t, err)
+}
+
+// TestUABotDetector_IsBotEndWith verifies suffix-match rules (pattern ending with "$").
+func TestUABotDetector_IsBotEndWith(t *testing.T) {
+	rules := []string{
+		"crawler$",
+	}
+	d := NewWithRules(rules)
+
+	assert.True(t, d.IsBot("mybot-crawler"))
+	assert.True(t, d.IsBot("crawler"))
+	assert.False(t, d.IsBot("crawler-extra"))
+}
+
+// TestIsBotEmptyUA verifies that an empty user-agent string does not panic and returns false
+// when no rule matches.
+func TestIsBotEmptyUA(t *testing.T) {
+	d, err := New()
+	assert.Nil(t, err)
+	assert.False(t, d.IsBot(""))
+}
+
+// TestNewWithRulesNilAndEmpty verifies that NewWithRules behaves correctly with nil and empty slices.
+func TestNewWithRulesNilAndEmpty(t *testing.T) {
+	d := NewWithRules(nil)
+	assert.NotNil(t, d)
+	assert.False(t, d.IsBot("Googlebot"))
+
+	d2 := NewWithRules([]string{})
+	assert.NotNil(t, d2)
+	assert.False(t, d2.IsBot("Googlebot"))
+}
+
+// TestImportRulesNilResetsExpressions verifies that importRules with nil resets the rule set.
+func TestImportRulesNilResetsExpressions(t *testing.T) {
+	d := NewWithRules([]string{"bot"})
+	assert.True(t, d.IsBot("bot"))
+	d.importRules(nil)
+	assert.False(t, d.IsBot("bot"))
+}
+
+// TestNormalize_Lynx verifies that the Lynx browser user-agent is normalised correctly
+// (libwww-fm is stripped) without being misclassified.
+func TestNormalize_Lynx(t *testing.T) {
+	ua := "Lynx/2.8.9dev.16 libwww-fm/2.14 SSL-MM/1.4.1 GNUTLS/3.5.17"
+	normalised := normalize(ua)
+	assert.Contains(t, normalised, "lynx/")
+	assert.NotContains(t, normalised, "libwww-fm")
+}
+
+// TestNormalize_Cubot verifies that "cubot" is stripped to avoid false positives
+// (Cubot is a smartphone brand whose name contains "bot").
+func TestNormalize_Cubot(t *testing.T) {
+	ua := "Mozilla/5.0 (Linux; Android 9; CUBOT NOTE 20) AppleWebKit/537.36"
+	normalised := normalize(ua)
+	assert.NotContains(t, normalised, "cubot")
+}
+
+// TestNormalize_MBot verifies that "; m bot" is stripped from the user-agent.
+func TestNormalize_MBot(t *testing.T) {
+	ua := "SomeDevice/1.0 (Brand; m bot; extra)"
+	normalised := normalize(ua)
+	assert.NotContains(t, normalised, "; m bot")
+}
+
+// TestNormalize_AmigaVoyager verifies that "amigavoyager" is stripped correctly.
+func TestNormalize_AmigaVoyager(t *testing.T) {
+	ua := "AmigaVoyager/3.4.4 (AmigaOS/MC680x0)"
+	normalised := normalize(ua)
+	assert.NotContains(t, normalised, "amigavoyager")
+}
+
+// TestNormalize_YandexSearch verifies that "yandexsearch/" is stripped so that
+// a plain Yandex search app on a real device is not mistaken for a bot.
+func TestNormalize_YandexSearch(t *testing.T) {
+	ua := "Mozilla/5.0 (iPhone) YandexSearch/7.55"
+	normalised := normalize(ua)
+	assert.NotContains(t, normalised, "yandexsearch/")
+}
+
+// TestCacheEviction verifies that the LRU cache evicts the oldest entry when capacity is exceeded.
+func TestCacheEviction(t *testing.T) {
+	r := []string{"^botA$", "^botB$"}
+	detector, err := New(WithRules(r), WithCache(1))
+	assert.Nil(t, err)
+
+	// Populate cache with botA result (true).
+	assert.True(t, detector.IsBot("botA"))
+	// Access botB; this should evict botA from the cache (capacity 1).
+	assert.True(t, detector.IsBot("botB"))
+
+	// Now change the rules so nothing matches.
+	detector.importRules([]string{"^noMatch$"})
+
+	// botB is still in cache (most recently used) → cached value (true) is returned.
+	assert.True(t, detector.IsBot("botB"))
+	// botA was evicted, so it is re-evaluated with the new rules → false.
+	assert.False(t, detector.IsBot("botA"))
+}
+
+// TestIsBotCaseInsensitive verifies that detection is case-insensitive.
+func TestIsBotCaseInsensitive(t *testing.T) {
+	d := NewWithRules([]string{"^googlebot$"})
+	assert.True(t, d.IsBot("Googlebot"))
+	assert.True(t, d.IsBot("GOOGLEBOT"))
+	assert.True(t, d.IsBot("googlebot"))
+}
+
+// TestIsBotWithCache_StartWithMatch verifies that a prefix-rule match is cached correctly.
+func TestIsBotWithCache_StartWithMatch(t *testing.T) {
+	detector, err := New(WithRules([]string{"^mybot"}), WithCache(10))
+	assert.Nil(t, err)
+
+	// First call: cache miss → prefix match → result cached as true.
+	assert.True(t, detector.IsBot("mybot/1.0"))
+
+	// Replace rules so nothing would match on a fresh scan.
+	detector.importRules([]string{"^nomatch"})
+
+	// Second call: cache hit → returns the previously cached true value.
+	assert.True(t, detector.IsBot("mybot/1.0"))
+}
+
+// TestIsBotWithCache_EndWithMatch verifies that a suffix-rule match is cached correctly.
+func TestIsBotWithCache_EndWithMatch(t *testing.T) {
+	detector, err := New(WithRules([]string{"crawler$"}), WithCache(10))
+	assert.Nil(t, err)
+
+	// First call: cache miss → suffix match → result cached as true.
+	assert.True(t, detector.IsBot("super-crawler"))
+
+	// Replace rules so nothing would match on a fresh scan.
+	detector.importRules([]string{"^nomatch"})
+
+	// Second call: cache hit → returns the previously cached true value.
+	assert.True(t, detector.IsBot("super-crawler"))
+}
